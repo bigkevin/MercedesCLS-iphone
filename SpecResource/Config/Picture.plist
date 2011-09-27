@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>img_picture01.jpg</string>
+		<key>Small</key>
+		<string>img_picture_small01.jpg</string>
+		<key>Flag</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>img_picture02.jpg</string>
+		<key>Small</key>
+		<string>img_picture_small02.jpg</string>
+		<key>Flag</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>img_picture03.jpg</string>
+		<key>Small</key>
+		<string>img_picture_small03.jpg</string>
+		<key>Flag</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>img_picture04.jpg</string>
+		<key>Small</key>
+		<string>img_picture_small04.jpg</string>
+		<key>Flag</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>img_picture05.jpg</string>
+		<key>Small</key>
+		<string>img_picture_small05.jpg</string>
+		<key>Flag</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>img_picture06.jpg</string>
+		<key>Small</key>
+		<string>img_picture_small06.jpg</string>
+		<key>Flag</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>

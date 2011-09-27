@@ -1,0 +1,3646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<total id="0" text="华北地区">
+		<provice id="bj" text="北京" x="470" y="170">
+			<city text="朝阳区" x="200" y="105">
+				<company>
+					<option type="0">
+						<name><![CDATA[北京鹏龙星徽汽车销售服务有限公司]]></name>
+						<location>10.123456789,11.987654321</location>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_xinghuiqijian.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_xinghuiqijian.jpg]]></image_map>
+						
+							<address><![CDATA[北京市朝阳区华威里10号楼]]></address>
+							<code><![CDATA[100021]]></code>
+							<tel><![CDATA[(86) 400 112 1666]]></tel>
+							<fax><![CDATA[(86) 10 5861 5060]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjrocarstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[北京北星行汽车销售有限公司(利星行广场展厅)]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_beixinghang_lixinghang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_beixinghang_lixinghang.jpg]]></image_map>
+						
+							<address><![CDATA[北京市朝阳区望京街8号戴姆勒大厦奔驰展厅]]></address>
+							<code><![CDATA[100102]]></code>
+							<tel><![CDATA[(86) 10 8477 6700]]></tel>
+							<fax><![CDATA[(86) 10 8476 0060]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjbeixinghang.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[北京北星行汽车销售有限公司(盈科展示厅)]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_beixinghang_yingke.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Beijing_beixinhang_yingke.jpg]]></image_map>
+						
+							<address><![CDATA[北京市朝阳区工体北路甲2号北京盈科中心商场首层104单元]]></address>
+							<code><![CDATA[100027]]></code>
+							<tel><![CDATA[(86) 10 6539 1710 - 15]]></tel>
+							<fax><![CDATA[(86) 10 6539 1709]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 22:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjbeixinghang.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[北京博瑞祥驰汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_boruixiangchi.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_boruixiangchi.jpg]]></image_map>
+						
+							<address><![CDATA[北京市朝阳区德胜门外双泉堡花虎沟2号]]></address>
+							<code><![CDATA[100192]]></code>
+							<tel><![CDATA[(86) 10 6292 4433,(86) 10 8281 8733,(86) 10 8281 8765]]></tel>
+							<fax><![CDATA[(86) 10 8281 8772]]></fax>
+							<service>(86) 10 6292 4433</service>
+							<office_hours><![CDATA[星期一至星期日 7:00 - 19:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjboruixiangchi.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[北京波士通达汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_beijing_boshitongda.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_boshitongda.jpg]]></image_map>
+						
+							<address><![CDATA[北京市朝阳区兴隆庄甲三号(京通高速高碑店桥东南角)]]></address>
+							<code><![CDATA[100123]]></code>
+							<tel><![CDATA[(86) 10 8577 1166]]></tel>
+							<fax><![CDATA[(86) 10 8577 8666]]></fax>
+							<service>(86) 10 8577 2266,(86) 139 1150 2196</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjboshitongda.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[北京保利星徽汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_bolixinghui.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_bolixinghui.jpg]]></image_map>
+						
+							<address><![CDATA[北京市朝阳区王四营马房寺路333号]]></address>
+							<code><![CDATA[100023]]></code>
+							<tel><![CDATA[(86) 10 8739 1111]]></tel>
+							<fax><![CDATA[(86) 10 8739 0220]]></fax>
+							<service>(86) 136 8123 7121</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 19:00]]></service_hours>
+							<site_url><![CDATA[http://www.bjpolystar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="1">
+						<name><![CDATA[北京鹏龙星徽汽车销售服务有限公司(潘家园汽车维修中心)]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_panjiayuandian.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_panjiayuandian.jpg]]></image_map>
+						
+							<address><![CDATA[北京市朝阳区十八里店乡白墙子村271号]]></address>
+							<code><![CDATA[100021]]></code>
+							<tel><![CDATA[(86) 400 112 1666]]></tel>
+							<fax><![CDATA[(86) 10 6769 7878]]></fax>
+							<service>(86) 187 1002 0020</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjrocarstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="昌平区" x="214" y="160">
+				<company>
+					<option type="2">
+						<name><![CDATA[北京亚奥之星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_beijing_changping_yaaostar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_changping_yaaostar.jpg]]></image_map>
+						
+							<address><![CDATA[北京市昌平区北七家镇北京北辰亚运村汽车交易市场中心3-1、3-2]]></address>
+							<code><![CDATA[102209]]></code>
+							<tel><![CDATA[(86) 10 8014 3000]]></tel>
+							<fax><![CDATA[(86) 10 8175 3988]]></fax>
+							<service><![CDATA[(86) 10 8175 3030]]></service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjaos.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="大兴区" x="240" y="180">
+				<company>
+					<option type="2">
+						<name><![CDATA[北京之星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_beijing_beijingstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_beijingstar.jpg]]></image_map>
+						
+							<address><![CDATA[北京市北京经济技术开发区文化园东路甲6号]]></address>
+							<code><![CDATA[100176]]></code>
+							<tel><![CDATA[(86) 10 6786 2828]]></tel>
+							<fax><![CDATA[(86) 10 6786 0180]]></fax>
+							<service>(86) 400 650 3000</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.nbjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="东城区" x="199" y="206">
+				<company>
+					<option type="0">
+						<name><![CDATA[北京鹏龙星徽汽车销售服务有限公司崇文展厅]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_penglongxinghui_congwen.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_penglongxinghui_congwen.jpg]]></image_map>
+						
+							<address><![CDATA[北京市东城区广渠门内大街88号]]></address>
+							<code><![CDATA[100062]]></code>
+							<tel><![CDATA[(86) 10 6711 7788]]></tel>
+							<fax><![CDATA[(86) 10 6718 3737]]></fax>
+							<service><![CDATA[(86) 158 1131 6655]]></service>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjrocarstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[北京天竺之星汽车综合服务有限公司(王府井展厅)]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_beixinghang_zhonghe_wangfujing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_beixinghang_zhonghe_wangfujing.jpg]]></image_map>
+						
+							<address><![CDATA[北京市东城区金宝街90-92号励骏酒店首层14-16号商铺]]></address>
+							<code><![CDATA[100005]]></code>
+							<tel><![CDATA[(86) 10 6528 2883]]></tel>
+							<fax><![CDATA[(86) 10 6528 0715]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjtianzhustar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="西城区" x="265" y="220">
+				<company>
+					<option type="0">
+						<name><![CDATA[北京利星行金融街展厅]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_xicheng_lidinghang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_xicheng_lidinghang.jpg]]></image_map>
+						
+							<address><![CDATA[北京市西城区金融大街7号英蓝国际金融中心首层F101-103单元]]></address>
+							<code><![CDATA[100140]]></code>
+							<tel><![CDATA[(86) 10 6655 5587]]></tel>
+							<fax><![CDATA[(86) 10 6655 5579]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjbeixinghang.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="丰台区" x="265" y="225">
+				<company>
+					<option type="2">
+						<name><![CDATA[北京市北奔汽车修理厂]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_beiben.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_beiben.jpg]]></image_map>
+						
+							<address><![CDATA[北京市丰台区成寿寺路17号(方庄桥辅路向东500米，天桥向南300米路西)]]></address>
+							<code><![CDATA[100078]]></code>
+							<tel><![CDATA[(86) 10 6760 1580]]></tel>
+							<fax><![CDATA[(86) 10 6766 1936]]></fax>
+							<service>(86) 139 1052 2619,(86) 139 1067 4594</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:00 - 18:00]]></service_hours>
+							<site_url><![CDATA[http://www.bjbeiben.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="海淀区" x="200" y="245">
+				<company>
+					<option type="5">
+						<name><![CDATA[北京百得利之星汽车销售有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_beijing_betterlifestar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_betterlifestar.jpg]]></image_map>
+						
+							<address><![CDATA[北京市海淀区西四环北路143号]]></address>
+							<code><![CDATA[100143]]></code>
+							<tel><![CDATA[(86) 10 5873 9999,(86) 10 5873 9131]]></tel>
+							<fax><![CDATA[(86) 10 5873 9117]]></fax>
+							<service>(86) 10 5873 9199</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjbetterlife.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[北京金冠汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_beijing_jinguan.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_jinguan.jpg]]></image_map>
+						
+							<address><![CDATA[北京市海淀区闵庄路6号(西北四环“香山 - 玉泉山”出口西行一公里 - 红绿灯左转路南)]]></address>
+							<code><![CDATA[100195]]></code>
+							<tel><![CDATA[(86) 10 8889 0672]]></tel>
+							<fax><![CDATA[(86) 10 8844 0151]]></fax>
+							<service>(86) 139 1150 4200,(86) 139 1150 4212</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 18:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bjjinguan.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="顺义区" x="199" y="260">
+				<company>
+					<option type="2">
+						<name><![CDATA[北京天竺之星汽车综合服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_beijing_tianzhu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_beijing_tianzhu.jpg]]></image_map>
+						
+							<address><![CDATA[北京市顺义区天竺镇府右街3号]]></address>
+							<code><![CDATA[101312]]></code>
+							<tel><![CDATA[(86) 10 6454 9366]]></tel>
+							<fax><![CDATA[(86) 10 6458 9966]]></fax>
+							<service>(86) 139 1093 8141,(86) 139 1093 8142,(86) 139 1093 8143,(86) 139 1093 8144,(86) 139 1093 8145</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.bjtianzhustar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="gs" text="甘肃" x="280" y="200">
+			<city text="兰州" x="370" y="190">
+				<company>
+					<option type="2">
+						<name><![CDATA[兰州之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_gansu_lanzhoustar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_gansu_lanzhoustar.jpg]]></image_map>
+						
+							<address><![CDATA[甘肃省兰州市安宁区万新南路88号(银滩大桥北侧)]]></address>
+							<code><![CDATA[730070]]></code>
+							<tel><![CDATA[(86) 931 768 5500]]></tel>
+							<fax><![CDATA[(86) 931 768 5510,(86) 931 765 8508]]></fax>
+							<service>(86) 189 9315 8110</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.lzstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="hn" text="河南" x="350" y="250">
+			<city text="郑州" x="80" y="239">
+				<company>
+					<option type="2">
+						<name><![CDATA[郑州之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_henan_zhengzhoustar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_henan_zhengzhoustar.jpg]]></image_map>
+						
+							<address><![CDATA[河南省郑州市郑花路88号贰仟家汽车文化广场]]></address>
+							<code><![CDATA[450045]]></code>
+							<tel><![CDATA[(86) 371 6555 0088]]></tel>
+							<fax><![CDATA[(86) 371 6555 0066]]></fax>
+							<service>(86) 137 0371 3333</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zzstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[郑州利星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_henan_zhengzhoulistar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_henan_zhengzhoulistar.jpg]]></image_map>
+						
+							<address><![CDATA[河南省郑州市郑东新区商都路北、贾陈街东]]></address>
+							<code><![CDATA[450000]]></code>
+							<tel><![CDATA[(86) 0371 6030 1888]]></tel>
+							<fax><![CDATA[(86) 0371 6030 1777]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zzleishing.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[郑州之星汽车销售服务有限公司金水路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Zhengzhou_Star_Automobile_Sales_Service.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Zhengzhou_Star_Automobile_Sales_Service.jpg]]></image_map>
+						
+							<address><![CDATA[河南省郑州市金水区未来路东金水路北曼哈顿广场]]></address>
+							<code><![CDATA[450000]]></code>
+							<tel><![CDATA[(86) 371 6850 5555,(86) 371 6850 7777]]></tel>
+							<fax><![CDATA[(86) 371 6580 5071]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 22:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zzstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="洛阳" x="79" y="239">
+				<company>
+					<option type="2">
+						<name><![CDATA[洛阳市庞大乐业汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_henan_luoyangpangda.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_henan_luoyangpangda.jpg]]></image_map>
+						
+							<address><![CDATA[河南省洛阳市瀍河区九都路与启明南路交叉口]]></address>
+							<code><![CDATA[471000]]></code>
+							<tel><![CDATA[(86) 379 6527 8888]]></tel>
+							<fax><![CDATA[(86) 379 6527 8800]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.lypangdaleye.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="hb" text="河北" x="348" y="200">
+			<city text="保定" x="91" y="185">
+				<company>
+					<option type="2">
+						<name><![CDATA[保定极致汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hebei_baodingjizhi.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hebei_baodingjizhi.jpg]]></image_map>
+						
+							<address><![CDATA[河北省保定市朝阳北大街1033号]]></address>
+							<code><![CDATA[071051]]></code>
+							<tel><![CDATA[(86) 312 332 6558]]></tel>
+							<fax><![CDATA[(86) 312 332 6550]]></fax>
+							<service>(86) 312 332 6555</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 18:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.bdjizhi.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="石家庄" x="91" y="200">
+				<company>
+					<option type="2">
+						<name><![CDATA[河北盛世之星汽车贸易有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hebei_shengshistar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hebei_shengshistar.jpg]]></image_map>
+						
+							<address><![CDATA[河北省石家庄市北二环西路168号]]></address>
+							<code><![CDATA[050061]]></code>
+							<tel><![CDATA[(86) 311 8777 8888]]></tel>
+							<fax><![CDATA[(86) 311 8773 9096]]></fax>
+							<service>(86) 311 8777 9999</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.hbshengshi.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="唐山" x="77" y="215">
+				<company>
+					<option type="2">
+						<name><![CDATA[唐山市冀东之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hebei_tangshanjidong.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hebei_tangshanjidong.jpg]]></image_map>
+						
+							<address><![CDATA[河北省唐山市建设南路1号]]></address>
+							<code><![CDATA[063000]]></code>
+							<tel><![CDATA[(86) 315 373 7777]]></tel>
+							<fax><![CDATA[(86) 315 373 7555]]></fax>
+							<service>(86) 136 0315 9619</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.tsjidongstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[唐山市庞大之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hebei_tangshanpangda.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hebei_tangshanpangda.jpg]]></image_map>
+						
+							<address><![CDATA[河北省唐山市开平区新城道口南行500米]]></address>
+							<code><![CDATA[063000]]></code>
+							<tel><![CDATA[(86) 315 569 7777]]></tel>
+							<fax><![CDATA[(86) 315 525 0000]]></fax>
+							<service>(86) 189 3156 1000</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+				</city>
+            <city text="邯郸" x="77" y="215">
+				<company>
+					<option type="2">
+						<name><![CDATA[邯郸市庞大乐业汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hebei_handan.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hebei_handan.jpg]]></image_map>
+						
+							<address><![CDATA[河北省邯郸市经济开发区世纪大街1号]]></address>
+							<code><![CDATA[056000]]></code>
+							<tel><![CDATA[(86) 310 319 7777]]></tel>
+							<fax><![CDATA[(86) 310 319 6677]]></fax>
+							<service>(86) 138 3209 0911</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.handanbenz.com/]]></site_url>
+						
+					</option>
+				</company>
+				</city>		
+				</provice>
+		<provice id="hlj" text="黑龙江" x="591" y="80">
+			<city text="哈尔滨" x="321" y="67">
+				<company>
+					<option type="2">
+						<name><![CDATA[哈尔滨之星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_heilongjiang_herbinstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_heilongjiang_herbinstar.jpg]]></image_map>
+						
+							<address><![CDATA[黑龙江省哈尔滨市道里区城乡路443号]]></address>
+							<code><![CDATA[150070]]></code>
+							<tel><![CDATA[(86) 451 8436 4468]]></tel>
+							<fax><![CDATA[(86) 451 8436 4466]]></fax>
+							<service>(86) 139 3624 5777</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 7:30 - 19:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.hrbstar.mercedes-benz.com.cn/]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[哈尔滨北星汽车销售有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_Harbin-Beixing-Automobile-Sales-Co-Ltd.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Harbin-Beixing-Automobile-Sales-Co-Ltd.jpg]]></image_map>
+						
+							<address><![CDATA[黑龙江省哈尔滨市南岗区长江路218号]]></address>
+							<code><![CDATA[150090]]></code>
+							<tel><![CDATA[(86) 451 8880 0066]]></tel>
+							<fax><![CDATA[(86) 451 8230 4398]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.hrbbeixing.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+            <city text="大庆" x="385" y="67">
+				<company>
+					<option type="2">
+						<name><![CDATA[大庆之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_heilongjiang_daqingzhixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_heilongjiang_daqingzhixing.jpg]]></image_map>
+						
+							<address><![CDATA[黑龙江省大庆市高新区创业东街1号]]></address>
+							<code><![CDATA[163316]]></code>
+							<tel><![CDATA[(86) 459 699 9008]]></tel>
+							<fax><![CDATA[(86) 459 650 0678]]></fax>
+							<service>(86) 187 4599 0900</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="nmg" text="内蒙古" x="400" y="180">
+			<city text="呼和浩特" x="130" y="170">
+				<company>
+					<option type="2">
+						<name><![CDATA[内蒙古之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Mongolia_MongoliaStar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Mongolia_MongoliaStar.jpg]]></image_map>
+						
+							<address><![CDATA[内蒙古呼和浩特市海拉尔西街利丰汽车文化广场]]></address>
+							<code><![CDATA[010051]]></code>
+							<tel><![CDATA[(86) 471 338 8168]]></tel>
+							<fax><![CDATA[(86) 471 338 8167]]></fax>
+							<service>(86) 471 338 8170</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.imstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[内蒙古之星汽车有限公司呼和浩特分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Mongolia_huhehaotef.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Mongolia_huhehaotef.jpg]]></image_map>
+						
+							<address><![CDATA[内蒙古呼和浩特市赛罕区乌兰察布路南(昭君花园东)]]></address>
+							<code><![CDATA[010020]]></code>
+							<tel><![CDATA[(86) 471 495 2255]]></tel>
+							<fax><![CDATA[(86) 471 493 9976]]></fax>
+							<service>(86) 471 338 8170</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.imstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="包头" x="130" y="170">
+				<company>
+					<option type="2">
+						<name><![CDATA[内蒙古奥捷之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Baotou_Qingshan.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Baotou_Qingshan.jpg]]></image_map>
+						
+							<address><![CDATA[内蒙古包头市青山区青东路2号]]></address>
+							<code><![CDATA[014030]]></code>
+							<tel><![CDATA[(86) 472 364 5888]]></tel>
+							<fax><![CDATA[(86) 472 361 3800]]></fax>
+							<service>(86) 472 364 5999</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.imaojiestar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="鄂尔多斯" x="130" y="210">
+				<company>
+					<option type="0">
+						<name><![CDATA[内蒙古之星汽车有限公司鄂尔多斯市分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Inner-Mongolia-Star-Automobile.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Inner-Mongolia-Star-Automobile.jpg]]></image_map>
+						
+							<address><![CDATA[内蒙古鄂尔多斯市东胜区迎宾路3号街坊16号楼101]]></address>
+							<code><![CDATA[017000]]></code>
+							<tel><![CDATA[(86) 477 388 0066]]></tel>
+							<fax><![CDATA[(86) 477 387 6016]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="jl" text="吉林" x="565" y="100">
+			<city text="长春" x="308" y="91">
+				<company>
+					<option type="2">
+						<name><![CDATA[长春之星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jilin_changchunstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jilin_changchunstar.jpg]]></image_map>
+						
+							<address><![CDATA[吉林省长春市经济技术开发区东南湖大路2828号 ]]></address>
+							<code><![CDATA[130033]]></code>
+							<tel><![CDATA[(86) 431 8587 8999,(86) 431 8587 7999]]></tel>
+							<fax><![CDATA[(86) 431 8507 1111]]></fax>
+							<service>(86) 136 1431 8616</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br/>星期六8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.ccstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="ln" text="辽宁" x="500" y="180">
+			<city text="鞍山" x="229" y="160">
+				<company>
+					<option type="2">
+						<name><![CDATA[鞍山四隆之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_anshansilongstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_anshansilongstar.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省鞍山市千山区西环路91号]]></address>
+							<code><![CDATA[114011]]></code>
+							<tel><![CDATA[(86) 412 846 0000]]></tel>
+							<fax><![CDATA[(86) 412 841 0828]]></fax>
+							<service/>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></service_hours>
+							<site_url><![CDATA[http://www.assilongstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="大连" x="229" y="180">
+               <company>
+					<option type="5">
+						<name><![CDATA[大连中升之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_dalian_zhongshengzhiqing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_dalian_zhongshengzhiqing.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省大连市沙河口区河曲街20号]]></address>
+							<code><![CDATA[116023]]></code>
+							<tel><![CDATA[(86) 411 3979 0000]]></tel>
+							<fax><![CDATA[(86) 411 3979 0011]]></fax>
+							<service>(86) 159 4110 9595</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30 <br/>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.dlzhshstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>				
+				<company>
+					<option type="2">
+						<name><![CDATA[大连中星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_liaoning_dalianzhongxing2.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_liaoning_dalianzhongxing1.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省大连市甘井子区华北路508号]]></address>
+							<code><![CDATA[116037]]></code>
+							<tel><![CDATA[(86) 411 8668 7777]]></tel>
+							<fax><![CDATA[(86) 411 8682 9999]]></fax>
+							<service>(86) 138 8949 8080</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 7:30 - 18:00<br/>星期六至星期日 7:30 - 17:00]]></service_hours>
+							<site_url><![CDATA[http://www.dlstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[大连中星汽车有限公司中南路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_liaoning_dalianzhongxingnanlu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_liaoning_dalianzhongxingnanlu.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省大连市中山区中南路201号]]></address>
+							<code><![CDATA[116015]]></code>
+							<tel><![CDATA[(86) 411 8288 0099]]></tel>
+							<fax><![CDATA[(86) 411 8288 0008]]></fax>
+							<service>(86) 138 8949 8080</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 7:30 - 18:00<br/>星期六至星期日 7:30 - 17:00]]></service_hours>
+							<site_url><![CDATA[http://www.dlstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="沈阳" x="229" y="190">
+				<company>
+					<option type="2">
+						<name><![CDATA[辽宁瑞星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_liaoning_ruixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_liaoning_ruixing.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省沈阳市铁西区北二中路18-1甲]]></address>
+							<code><![CDATA[110025]]></code>
+							<tel><![CDATA[(86) 24 6261 1111]]></tel>
+							<fax><![CDATA[(86) 24 2511 9669]]></fax>
+							<service>(86) 24 2511 9977</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.lnruixing.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="3">
+						<name><![CDATA[辽宁瑞星汽车销售服务有限公司沈阳分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Liaoning_Ruixing_-_Shenyang_Branch.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Liaoning_Ruixing_-_Shenyang_Branch.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省沈阳市东陵区东陵路28号]]></address>
+							<code><![CDATA[110043]]></code>
+							<tel><![CDATA[(86) 24 6213 3333]]></tel>
+							<fax><![CDATA[(86) 24 6255 8800]]></fax>
+							<service>(86) 24 2286 5555</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.lnruixing.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[辽宁之星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_liaoning_liaoningstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_liaoning_liaoningstar.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省沈阳市浑南新区科幻路7号 ]]></address>
+							<code><![CDATA[110168]]></code>
+							<tel><![CDATA[(86) 24 3103 5777,(86) 24 3103 6666,(86) 24 2253 2666]]></tel>
+							<fax><![CDATA[(86) 24 3103 5757,(86) 24 3103 5767]]></fax>
+							<service>(86) 135 0404 0909</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 21:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.lnstar.mercedes-benz.com.cn/]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[辽宁之星汽车销售有限公司-北市展示厅]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_liaoning_liaoningstar_beishizhanting.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_liaoning_liaoningstar_beishizhanting.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省沈阳市和平区北三经街10号甲6]]></address>
+							<code><![CDATA[110002]]></code>
+							<tel><![CDATA[(86) 24 2253 2666,(86) 24 2252 9988]]></tel>
+							<fax><![CDATA[(86) 24 2251 7711]]></fax>
+							<service>(86) 135 0404 0909</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.lnstar.mercedes-benz.com.cn/]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="营口" x="295" y="225">
+				<company>
+					<option type="2">
+						<name><![CDATA[营口之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_liaoning_yingkoustar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_liaoning_yingkoustar.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省营口市站前区金牛山大街东98号]]></address>
+							<code><![CDATA[115000]]></code>
+							<tel><![CDATA[(86) 417 333 6333,(86) 417 333 6777]]></tel>
+							<fax><![CDATA[(86) 417 332 7808]]></fax>
+							<service><![CDATA[(86) 131 9417 0099]]></service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.ykstar.mercedes-benz.com.cn/]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="盘锦" x="230" y="225">
+				<company>
+					<option type="0">
+						<name><![CDATA[营口之星汽车有限公司盘锦分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_liaoning_panjingstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_liaoning_panjingstar.jpg]]></image_map>
+						
+							<address><![CDATA[辽宁省盘锦市兴隆台区经济开发区中兴商贸园]]></address>
+							<code><![CDATA[124010]]></code>
+							<tel><![CDATA[(86) 427 323 1111]]></tel>
+							<fax><![CDATA[(86) 427 323 1101]]></fax>
+							<service><![CDATA[]]></service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.ykstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="qh" text="青海" x="300" y="270">
+			<city text="西宁" x="390" y="260">
+				<company>
+					<option type="2">
+						<name><![CDATA[青海之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_qinghai_Star Automobile.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_qinghai_Star Automobile.jpg]]></image_map>
+						
+							<address><![CDATA[青海省西宁市东川工业园区昆仑东路36号]]></address>
+							<code><![CDATA[810007]]></code>
+							<tel><![CDATA[(86) 971 886 5000]]></tel>
+							<fax><![CDATA[(86) 971 886 5080]]></fax>
+							<service><![CDATA[(86) 151 1099 8410]]></service>
+					
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.qhstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="sd" text="山东" x="420" y="200">
+			<city text="济南" x="150" y="232">
+				<company>
+					<option type="2">
+						<name><![CDATA[济南之星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shandong_jinanstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_jinanstar.jpg]]></image_map>
+						
+							<address><![CDATA[山东省济南市历下区轻骑路60-1号]]></address>
+							<code><![CDATA[250100]]></code>
+							<tel><![CDATA[(86) 531 8854 7010,(86) 531 8854 7161]]></tel>
+							<fax><![CDATA[(86) 531 8854 4514]]></fax>
+							<service>(86) 133 5666 2959</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:00 - 18:00<br/>星期六至星期日 8:00 - 17:00]]></service_hours>
+							<site_url><![CDATA[http://www.jnstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[济南之星汽车服务有限公司市中分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Jinan_Star_Automobile_Service.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Jinan_Star_Automobile_Service.jpg]]></image_map>
+						
+							<address><![CDATA[山东省济南市市中区英雄山路84号]]></address>
+							<code><![CDATA[250002]]></code>
+							<tel><![CDATA[(86) 531 6781 1188]]></tel>
+							<fax><![CDATA[(86) 531 6781 6609]]></fax>
+							<service>(86) 139 6917 4698</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.jnstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="青岛" x="148" y="255">
+				<company>
+					<option type="2">
+						<name><![CDATA[青岛三合汽车销售有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shandong_qingdaosanhe.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_qingdaosanhe.jpg]]></image_map>
+						
+							<address><![CDATA[山东省青岛市崂山区龙岗路10号]]></address>
+							<code><![CDATA[266101]]></code>
+							<tel><![CDATA[(86) 532 8508 8888]]></tel>
+							<fax><![CDATA[(86) 532 6671 1716]]></fax>
+							<service>(86) 158 5323 3077</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.qdsanhe.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="1">
+						<name><![CDATA[青岛之星汽车服务有限公司服务中心]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shandong_qingdaostar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_qingdaostar.jpg]]></image_map>
+						
+							<address><![CDATA[山东省青岛市四方区哈尔滨路54号]]></address>
+							<code><![CDATA[266100]]></code>
+							<tel><![CDATA[(86) 532 8566 1111]]></tel>
+							<fax><![CDATA[(86) 532 8566 1577]]></fax>
+							<service>(86) 532 8566 6655</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 18:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.qdstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[青岛之星汽车服务有限公司展示厅]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shandong_qingdaostar_sh.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_qingdaostar_sh.jpg]]></image_map>
+						
+							<address><![CDATA[青岛市市南区香港中路136号]]></address>
+							<code><![CDATA[266071]]></code>
+							<tel><![CDATA[(86) 532 8844 1111,(86) 532 8566 5566]]></tel>
+							<fax><![CDATA[(86) 532 8097 3399]]></fax>
+							<service>(86) 532 8566 6655</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></service_hours>
+							<site_url><![CDATA[http://www.qdstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="潍坊" x="188" y="280">
+				<company>
+					<option type="2">
+						<name><![CDATA[潍坊之星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shandong_weifangstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_weifangstar.jpg]]></image_map>
+						
+							<address><![CDATA[山东省潍坊市潍城区北宫西街(309国道与西外环路交叉口西南角)]]></address>
+							<code><![CDATA[261057]]></code>
+							<tel><![CDATA[(86) 536 857 2111]]></tel>
+							<fax><![CDATA[(86) 536 833 2211]]></fax>
+							<service>(86) 537 857 3111</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:00 - 18:00<br/>星期六至星期日 8:00 - 17:00]]></service_hours>
+							<site_url><![CDATA[http://www.wfstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="烟台" x="188" y="300">
+				<company>
+					<option type="2">
+						<name><![CDATA[烟台之星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shandong_yantaistar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_yantaistar.jpg]]></image_map>
+						
+							<address><![CDATA[山东省烟台市机场路西侧机场出口北200米]]></address>
+							<code><![CDATA[265508]]></code>
+							<tel><![CDATA[(86) 535 699 9333]]></tel>
+							<fax><![CDATA[(86) 535 699 9300]]></fax>
+							<service>(86) 535 699 9321</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:00 - 18:00<br/>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.ytstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+            <city text="威海" x="148" y="300">
+				<company>
+					<option type="0">
+						<name><![CDATA[烟台之星汽车服务有限公司威海分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shandong_weihai.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_weihai.jpg]]></image_map>
+						
+							<address><![CDATA[山东省威海市高新技术产业开发区文化西路183号]]></address>
+							<code><![CDATA[264209]]></code>
+							<tel><![CDATA[(86) 631 368 9999]]></tel>
+							<fax><![CDATA[(86) 631 368 9966]]></fax>
+							<service>(86) 535 699 9321</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.ytstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>			
+			<city text="淄博" x="162" y="318">
+				<company>
+					<option type="2">
+						<name><![CDATA[淄博星吉汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shandong_zibojixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_zibojixing.jpg]]></image_map>
+						
+							<address><![CDATA[山东省淄博市张店区金晶大道196号]]></address>
+							<code><![CDATA[255000]]></code>
+							<tel><![CDATA[(86) 533 359 9996,(86) 533 359 9997,(86) 533 359 9998,(86) 533 359 9877,(86) 533 359 9966]]></tel>
+							<fax><![CDATA[(86) 533 359 9976]]></fax>
+							<service>(86) 533 359 9877</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:00 - 18:00]]></service_hours>
+							<site_url><![CDATA[http://www.zbxingji.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+            <city text="临沂" x="148" y="318">
+				<company>
+					<option type="2">
+						<name><![CDATA[临沂远通之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shandong_Linyi_Yuantong_Star.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_Linyi_Yuantong_Star.jpg]]></image_map>
+						
+							<address><![CDATA[山东省临沂市罗庄区蒙山大道与沂河路交汇处西一公里]]></address>
+							<code><![CDATA[276000]]></code>
+							<tel><![CDATA[(86) 539 299 9999]]></tel>
+							<fax><![CDATA[(86) 539 846 5776]]></fax>
+							<service>(86) 539 767 8888</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:00 - 18:00<br/>星期六至周日 8:00 - 17:00]]></service_hours>
+							<site_url><![CDATA[http://www.lyyuantong.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>			
+            <city text="东营" x="188" y="318">
+				<company>
+					<option type="2">
+						<name><![CDATA[东营泰岳星徽汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shandong_dongying_taiyuexinghui.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shandong_dongying_taiyuexinghui.jpg]]></image_map>
+						
+							<address><![CDATA[山东省东营市北二路9号(郝家工业园)]]></address>
+							<code><![CDATA[257000]]></code>
+							<tel><![CDATA[(86) 546 778 8888]]></tel>
+							<fax><![CDATA[(86) 546 775 8222]]></fax>
+							<service>(86) 546 896 6666</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>			
+			
+		</provice>
+		<provice id="sx" text="陕西" x="290" y="300">
+			<city text="西安" x="383" y="290">
+				<company>
+					<option type="0">
+						<name><![CDATA[西安北星汽车销售有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shaanxi_xianbeixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shaanxi_xianbeixing.jpg]]></image_map>
+						
+							<address><![CDATA[陕西省西安市高新区沣惠南路华晶商务广场A座第一层10103号]]></address>
+							<code><![CDATA[710075]]></code>
+							<tel><![CDATA[(86) 29 8837 2233]]></tel>
+							<fax><![CDATA[(86) 29 8837 2133]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.xastar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[西安之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shaanxi_xianstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shaanxi_xianstar.jpg]]></image_map>
+						
+							<address><![CDATA[陕西省西安市西安经济技术开发区凤城五路48号]]></address>
+							<code><![CDATA[710021]]></code>
+							<tel><![CDATA[(86) 29 8651 6333]]></tel>
+							<fax><![CDATA[(86) 29 8651 6023]]></fax>
+							<service>(86) 137 0027 5106</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 21:30]]></service_hours>
+							<site_url><![CDATA[http://www.xastar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="sx1" text="山西" x="350" y="230">
+			<city text="大同" x="78" y="218">
+				<company>
+					<option type="2">
+						<name><![CDATA[山西必高之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanxi_bigaostar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanxi_bigaostar.jpg]]></image_map>
+						
+							<address><![CDATA[山西省大同新建南路158号]]></address>
+							<code><![CDATA[037043]]></code>
+							<tel><![CDATA[(86) 352 378 8898]]></tel>
+							<fax><![CDATA[(86) 352 537 0022]]></fax>
+							<service>(86) 352 378 8688</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.sxbigaostar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="太原" x="78" y="235">
+				<company>
+					<option type="0">
+						<name><![CDATA[太原之星汽车销售服务有限公司城市展厅]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shanxi_taiyuanlixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanxi_taiyuanlixing.jpg]]></image_map>
+						
+							<address><![CDATA[山西省太原市小店区亲贤北街31号太航世纪底商2号]]></address>
+							<code><![CDATA[030006]]></code>
+							<tel><![CDATA[(86) 351 758 8298]]></tel>
+							<fax><![CDATA[(86) 351 708 6863]]></fax>
+							<service/>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.tystar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[太原之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanxi_taiyuanstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanxi_taiyuanstar.jpg]]></image_map>
+						
+							<address><![CDATA[山西省太原市太榆路38号]]></address>
+							<code><![CDATA[030031]]></code>
+							<tel><![CDATA[(86) 351 878 6505]]></tel>
+							<fax><![CDATA[(86) 351 878 4595]]></fax>
+							<service>(86) 351 878 7935</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.tystar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[太原利星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanxi_taiyuan_lixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanxi_taiyuan_lixing.jpg]]></image_map>
+						
+							<address><![CDATA[太原市经济技术开发区武洛街3号]]></address>
+							<code><![CDATA[030032]]></code>
+							<tel><![CDATA[(86) 351 527 3111]]></tel>
+							<fax><![CDATA[(86) 351 527 3099]]></fax>
+							<service>(86) 351 527 3122</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="临汾" x="93" y="218">
+				<company>
+					<option type="2">
+						<name><![CDATA[临汾之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanxi_linfenzhixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanxi_linfenzhixing.jpg]]></image_map>
+						
+							<address><![CDATA[山西省临汾市尧都区尧庙镇尧庙村南霍侯一级路东侧]]></address>
+							<code><![CDATA[041000]]></code>
+							<tel><![CDATA[(86) 357 393 0000,(86) 357 393 1111]]></tel>
+							<fax><![CDATA[(86) 357 393 3001]]></fax>
+							<service>(86) 357 393 1111</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="tj" text="天津" x="456" y="200">
+			<city text="北辰区" x="185" y="184">
+				<company>
+					<option type="5">
+						<name><![CDATA[天津市北信中乒之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_tianjin_beixinzhongping.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_tianjin_beixinzhongping.jpg]]></image_map>
+						
+							<address><![CDATA[天津市北辰区普济河东道南侧]]></address>
+							<code><![CDATA[300402]]></code>
+							<tel><![CDATA[(86) 22 2671 3000]]></tel>
+							<fax><![CDATA[(86) 22 2672 8688]]></fax>
+							<service>(86) 22 2672 9595</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br/>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.tjzhongping.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="东丽区" x="199" y="210">
+				<company>
+					<option type="2">
+						<city text="西安" x="383" y="290">
+							<company>
+								<option type="0">
+									<name><![CDATA[西安北星汽车销售有限公司]]></name>
+									<image_company><![CDATA[../images/Photo/Photo_shaanxi_xianbeixing.jpg]]></image_company>
+									<image_map><![CDATA[map/map_shaanxi_xianbeixing.jpg]]></image_map>
+									
+										<address><![CDATA[中国陕西省西安市高新区沣惠南路华晶商务广场]]></address>
+										<code><![CDATA[710075]]></code>
+										<tel><![CDATA[(86) 29 8837 2233]]></tel>
+										<fax><![CDATA[(86) 29 8837 2133]]></fax>
+										<service/>
+										<office_hours><![CDATA[星期一至星期日<br/>上午八时三十分至下午八时三十分]]></office_hours>
+										<inshow_hours><![CDATA[]]></inshow_hours>
+										<service_hours><![CDATA[]]></service_hours>
+										<site_url><![CDATA[]]></site_url>
+									
+								</option>
+							</company>
+							<company>
+								<option type="2">
+									<name><![CDATA[西安之星汽车维修服务有限公司]]></name>
+									<image_company><![CDATA[../images/Photo/Photo_shaanxi_xianstar.jpg]]></image_company>
+									<image_map><![CDATA[map/map_shaanxi_xianstar.jpg]]></image_map>
+									
+										<address><![CDATA[中国陕西省西安市西安经济技术开发区凤城五路48号]]></address>
+										<code><![CDATA[710021]]></code>
+										<tel><![CDATA[(86) 29 8651 6333]]></tel>
+										<fax><![CDATA[(86) 29 8651 6023]]></fax>
+										<service>(86) 137 0027 5106</service>
+										<office_hours><![CDATA[]]></office_hours>
+										<inshow_hours><![CDATA[星期一至星期日<br/>上午八时三十分至下午八时三十分]]></inshow_hours>
+										<service_hours><![CDATA[星期一至星期五<br/>上午八时三十分至下午六时三十分<br/>星期六<br/>上午八时三十分至下午五时三十分  ]]></service_hours>
+										<site_url><![CDATA[http://www.xastar.mercedes-benz.com.cn]]></site_url>
+									
+								</option>
+							</company>
+						</city>
+						<name><![CDATA[天津之星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_tianjin_tianjinstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_tianjin_tianjinstar.jpg]]></image_map>
+						
+							<address><![CDATA[天津市天津空港物流加工区环河北路28号]]></address>
+							<code><![CDATA[300308]]></code>
+							<tel><![CDATA[(86) 22 8490 9090,(86) 22 2576 3399]]></tel>
+							<fax><![CDATA[(86) 22 8490 9091]]></fax>
+							<service>(86) 139 0208 8787</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br/>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.tjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="和平区" x="185" y="184">
+				<company>
+					<option type="0">
+						<name><![CDATA[天津之星汽车维修服务有限公司第一分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_tianjin_zhixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_tianjin_zhixing.jpg]]></image_map>
+						
+							<address><![CDATA[天津市和平区张自忠路156号增5号]]></address>
+							<code><![CDATA[300010]]></code>
+							<tel><![CDATA[(86) 22 8488 9090]]></tel>
+							<fax><![CDATA[(86) 22 8488 9091]]></fax>
+							<service></service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="xj" text="新疆" x="180" y="120">
+			<city text="乌鲁木齐" x="270" y="107">
+				<company>
+					<option type="2">
+						<name><![CDATA[新疆之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_xinjiang_urumqistar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_xinjiang_urumqistar.jpg]]></image_map>
+						
+							<address><![CDATA[新疆乌鲁木齐经济技术开发区中亚北路179号]]></address>
+							<code><![CDATA[830026]]></code>
+							<tel><![CDATA[(86) 991 376 9567]]></tel>
+							<fax><![CDATA[(86) 991 376 9560]]></fax>
+							<service>(86) 159 9911 7949</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 10:00 - 22:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 10:00 - 20:00<br/>星期六 10:00 - 19:00]]></service_hours>
+							<site_url><![CDATA[http://www.xjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+                <company>
+					<option type="0">
+						<name><![CDATA[新疆之星汽车有限公司南湖广场分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_xinjiang_zhixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_xinjiang_zhixing.jpg]]></image_map>
+						
+							<address><![CDATA[乌鲁木齐市南湖东路95号]]></address>
+							<code><![CDATA[830063]]></code>
+							<tel><![CDATA[(86) 991 469 0333]]></tel>
+							<fax><![CDATA[(86) 991 468 0323]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 10:00 - 22:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.xjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+		</city>
+		</provice>
+	</total>
+	<total id="1" text="华东地区">
+		<provice id="ah" text="安徽" x="333" y="160">
+			<city text="合肥" x="425" y="148">
+				<company>
+					<option type="2">
+						<name><![CDATA[安徽之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_anhui_anhuistar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_anhui_anhuistar.jpg]]></image_map>
+						
+							<address><![CDATA[安徽省合肥市汴河路国际汽车城4号展厅]]></address>
+							<code><![CDATA[230011]]></code>
+							<tel><![CDATA[(86) 551 439 7666]]></tel>
+							<fax><![CDATA[(86) 551 439 7668]]></fax>
+							<service>(86) 159 5693 3516</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.ahstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="fj" text="福建" x="320" y="230">
+			<city text="福州" x="412" y="200">
+				<company>
+					<option type="2">
+						<name><![CDATA[福州东星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_fujian_fuzhoudongxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_fujian_fuzhoudongxing.jpg]]></image_map>
+						
+							<address><![CDATA[福建省福州市仓山区福峡路755号]]></address>
+							<code><![CDATA[350011]]></code>
+							<tel><![CDATA[(86) 591 8803 3818]]></tel>
+							<fax><![CDATA[(86) 591 8803 3828]]></fax>
+							<service>(86) 137 0698 2865</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.fzeasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[福州之星汽车贸易有限公司五一路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_fujian_fuzhoustar_wuyilu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_fujian_fuzhoustar_wuyilu.jpg]]></image_map>
+						
+							<address><![CDATA[福建省福州市台江区五一南路新港街189号]]></address>
+							<code><![CDATA[350001]]></code>
+							<tel><![CDATA[(86) 591 8329 9618]]></tel>
+							<fax><![CDATA[(86) 591 8329 5808]]></fax>
+							<service>(86) 591 8329 9618</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.fzeasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="泉州" x="412" y="215">
+				<company>
+					<option type="2">
+						<name><![CDATA[福建省泉州闽星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_fujian_quanzhoumenxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_fujian_quanzhoumenxing.jpg]]></image_map>
+						
+							<address><![CDATA[福建省晋江市世纪大道市区新区(奔驰大厦)]]></address>
+							<code><![CDATA[362200]]></code>
+							<tel><![CDATA[(86) 595 8200 6901]]></tel>
+							<fax><![CDATA[(86) 595 8818 7889]]></fax>
+							<service>(86) 159 5999 1166</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.qzminxing.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="1">
+						<name><![CDATA[厦门空港航星汽车维修服务有限公司 - 泉州分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_fujian_xiamenkonggang_quanzhou.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_fujian_xiamenkonggang_quanzhou.jpg]]></image_map>
+						
+							<address><![CDATA[福建省泉州市刺桐东路北段消安大厦一楼]]></address>
+							<code><![CDATA[362000]]></code>
+							<tel><![CDATA[(86) 595 2215 0651]]></tel>
+							<fax><![CDATA[(86) 595 2215 0972]]></fax>
+							<service>(86) 139 0505 3755</service>
+							<office_hours><![CDATA[星期一至星期五 8:30 - 18:30<br/>星期六至星期日 8:30 - 17:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.xmairportstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[泉州隆星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_fujian_quanzhou_longxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_fujian_quanzhou_longxing.jpg]]></image_map>
+						
+							<address><![CDATA[福建省泉州清濛经济技术开发区迎宾大道]]></address>
+							<code><![CDATA[362200]]></code>
+							<tel><![CDATA[(86) 595 2878 0000]]></tel>
+							<fax><![CDATA[(86) 595 2878 9000]]></fax>
+							<service>(86) 595 2878 0000</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:00]]></service_hours>
+							<site_url><![CDATA[http://www.qzlongstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[厦门空港航星汽车维修服务有限公司泉州丰泽分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_fujian_quanzhou_kongganghangxing_fengze.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_fujian_quanzhou_kongganghangxing_fengze.jpg]]></image_map>
+						
+							<address><![CDATA[泉州市丰泽区华大办事处南埔工业小区城华南路18号1幢]]></address>
+							<code><![CDATA[362000]]></code>
+							<tel><![CDATA[(86) 595 2875 1999]]></tel>
+							<fax><![CDATA[(86) 595 2859 1599]]></fax>
+							<service>(86) 595 2875 1999</service>
+							<office_hours><![CDATA[星期一至星期五 8:30 - 18:30<br />星期六至星期日 8:30 - 17:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.xmairportstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="厦门" x="412" y="258">
+				<company>
+					<option type="2">
+						<name><![CDATA[厦门空港航星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_fujian_xiamenairportstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_fujian_xiamenairportstar.jpg]]></image_map>
+						
+							<address><![CDATA[福建省厦门市高崎国际机场]]></address>
+							<code><![CDATA[361006]]></code>
+							<tel><![CDATA[(86) 592 573 2999 ]]></tel>
+							<fax><![CDATA[(86) 592 573 0769]]></fax>
+							<service>(86) 136 0606 1108 </service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br/>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.xmairportstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[厦门市东之星汽车销售有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_fujian_xiamendongstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_fujian_xiamendongstar.jpg]]></image_map>
+						
+							<address><![CDATA[福建省厦门市海沧区马青路1221号]]></address>
+							<code><![CDATA[361026]]></code>
+							<tel><![CDATA[(86) 592 619 1999]]></tel>
+							<fax><![CDATA[(86) 592 619 1988]]></fax>
+							<service>(86) 592 619 1999,(86) 158 6078 3307</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.xmeasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="js" text="江苏" x="300" y="118">
+			<city text="南京" x="392" y="90">
+				<company>
+					<option type="2">
+						<name><![CDATA[南京宁星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangsu_nanjingningxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_nanjingningxing.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省南京市雨花台区软件大道28号]]></address>
+							<code><![CDATA[210012]]></code>
+							<tel><![CDATA[(86) 25 8691 8000]]></tel>
+							<fax><![CDATA[(86) 25 8691 8008]]></fax>
+							<service>(86) 138 5156 8000</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:00 - 18:00<br/>星期日 9:00 - 17:00]]></service_hours>
+							<site_url><![CDATA[http://www.njstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="1">
+						<name><![CDATA[南京利之星汽车咨询服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_nanjing_lizhixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_nanjing_LiZhiXing.jpg]]></image_map>
+						
+							<address><![CDATA[南京市栖霞区尧化街道尧胜社区马家园106号]]></address>
+							<code><![CDATA[210046]]></code>
+							<tel><![CDATA[(86) 25 8555 0000]]></tel>
+							<fax><![CDATA[(86) 25 5835 2100]]></fax>
+							<service>(86) 153 6600 7700</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:00 - 21:00]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[上海通和贸易有限公司南京分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_jiangsu_nanjingbranch.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_nanjingbranch.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省南京市玄武区红山路192号]]></address>
+							<code><![CDATA[210028]]></code>
+							<tel><![CDATA[(86) 25 8550 9888]]></tel>
+							<fax><![CDATA[(86) 25 8561 5099]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.njlizhixing.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="常州" x="392" y="113">
+				<company>
+					<option type="2">
+						<name><![CDATA[江苏万帮明都汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangsu_jiangsuwanbang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_jiangsuwanbang.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省常州市武进区常武南路与滆湖路路口]]></address>
+							<code><![CDATA[213164]]></code>
+							<tel><![CDATA[(86) 519 8659 6888,(86) 519 8652 5199]]></tel>
+							<fax><![CDATA[(86) 519 8659 6608]]></fax>
+							<service>(86) 519 8989 0000</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.jswanbang.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[常州外汽星豪汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Changzhou-Waiqi-Xinghao.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Changzhou-Waiqi-Xinghao.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省常州市新北区黄河路92号]]></address>
+							<code><![CDATA[213022]]></code>
+							<tel><![CDATA[(86) 519 8510 5688]]></tel>
+							<fax><![CDATA[(86) 519 8511 7700]]></fax>
+							<service>(86) 519 8968 8888</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="苏州" x="391" y="136">
+				<company>
+					<option type="2">
+						<name><![CDATA[昆山东星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_jiangsu_suzhou_kunshan.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_suzhou_kunshan.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省昆山市黄浦江北路188号]]></address>
+							<code><![CDATA[215314]]></code>
+							<tel><![CDATA[(86) 512 5512 9696,(86) 512 5512 2222]]></tel>
+							<fax><![CDATA[(86) 512 5512 9898]]></fax>
+							<service>(86) 189 6268 2095</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.kseasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[吴江之星汽车销售服务有限公司盛泽分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_jiangsu_suzhou_wujiang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_suzhou_wujiang.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省吴江市盛泽镇新亚旭景园16幢120室]]></address>
+							<code><![CDATA[215228]]></code>
+							<tel><![CDATA[(86) 512 6306 0000]]></tel>
+							<fax><![CDATA[(86) 512 6308 9000]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.wjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[苏州海星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangsu_suzhouhaixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_suzhouhaixing.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省苏州市吴中区中山东路159号(凯马汽车广场内)]]></address>
+							<code><![CDATA[215101]]></code>
+							<tel><![CDATA[(86) 512 6687 9888]]></tel>
+							<fax><![CDATA[(86) 512 6687 9666]]></fax>
+							<service>(86) 512 6687 9999</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.szseastar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[苏州利星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangsu_suzhoustar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_suzhoustar.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省苏州市吴中区东环南路1500号]]></address>
+							<code><![CDATA[215124]]></code>
+							<tel><![CDATA[(86) 512 6597 5599]]></tel>
+							<fax><![CDATA[(86) 512 6597 3399]]></fax>
+							<service>(86) 136 0613 2277</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.szstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+                <company>
+					<option type="0">
+						<name><![CDATA[苏州利星汽车服务有限公司 园区旺墩路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_suzhou_lixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map__suzhou_lixing.jpg]]></image_map>
+						
+							<address><![CDATA[苏州市工业园区旺墩路金鸡湖新罗酒店D栋]]></address>
+							<code><![CDATA[215028]]></code>
+							<tel><![CDATA[(86) 512 6597 8888]]></tel>
+							<fax><![CDATA[(86) 512 6597 6789]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.szstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>	
+				<company>
+					<option type="2">
+						<name><![CDATA[常熟华星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_jiangshu-changshu-huaxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangshu-changshu-huaxing.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省常熟市高新技术产业园区珠海路19号]]></address>
+							<code><![CDATA[215500]]></code>
+							<tel><![CDATA[(86) 512 5229 0000]]></tel>
+							<fax><![CDATA[(86) 512 5229 1111]]></fax>
+							<service>(86) 400 119 0110</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="1">
+						<name><![CDATA[吴江之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_jiangshu-wujiang-star.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangshu-wujiang-star.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省吴江市平望镇端市村197-28号]]></address>
+							<code><![CDATA[215228]]></code>
+							<tel><![CDATA[(86) 512 6308 0000]]></tel>
+							<fax><![CDATA[(86) 512 6353 7301]]></fax>
+							<service>(86) 189 1305 1999</service>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.wjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+		    </city>
+			<city text="无锡" x="392" y="159">
+				<company>
+					<option type="0">
+						<name><![CDATA[无锡德星汽车维修服务有限公司县前西街分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangsu_wuxilixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_wuxilixing.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省无锡市县前西街195号]]></address>
+							<code><![CDATA[214000]]></code>
+							<tel><![CDATA[(86) 510 8280 5955]]></tel>
+							<fax><![CDATA[(86) 510 8280 3555]]></fax>
+							<service>(86) 139 6177 9789</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.wxstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[无锡德星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangsu_wuxidexing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_wuxidexing.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省无锡市滨湖区胡埭工业园锡宜公路888号]]></address>
+							<code><![CDATA[214161]]></code>
+							<tel><![CDATA[(86) 510 8866 0999 ]]></tel>
+							<fax><![CDATA[(86) 510 8866 1000]]></fax>
+							<service>(86) 139 6177 9789</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 20:30<br/>星期六至星期日 8:30 - 18:00]]></service_hours>
+							<site_url><![CDATA[http://www.wxstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[无锡国信汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangsu_Wuxi_Guoxin_Automobile_Sales_&_Service.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_Wuxi_Guoxin_Automobile_Sales_&_Service.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省无锡市新区行创四路20号]]></address>
+							<code><![CDATA[214028]]></code>
+							<tel><![CDATA[(86) 510 8530 1111 ]]></tel>
+							<fax><![CDATA[(86) 510 8528 3639]]></fax>
+							<service>(86) 510 8530 1111</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.wxguoxin.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="扬州" x="392" y="181">
+				<company>
+					<option type="2">
+						<name><![CDATA[扬州东星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_jiangsu_yangzhoudongxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_yangzhoudongxing.jpg ]]></image_map>
+						
+							<address><![CDATA[江苏省扬州市维扬区蜀岗西路2号]]></address>
+							<code><![CDATA[225008]]></code>
+							<tel><![CDATA[(86) 514 8777 9990]]></tel>
+							<fax><![CDATA[(86) 514 8775 9990]]></fax>
+							<service>(86) 159 5270 7008</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.yzeasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="南通" x="392" y="181">
+				<company>
+					<option type="2">
+						<name><![CDATA[南通文峰伟恒汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_jiangsu_nantongwenfeng.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_nantongwenfeng.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省南通市青年东路269号]]></address>
+							<code><![CDATA[226001]]></code>
+							<tel><![CDATA[(86) 513 8522 2666,(86) 513 8526 9898]]></tel>
+							<fax><![CDATA[(86) 513 8526 9880]]></fax>
+							<service>(86) 138 1371 9000</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.ntwenfeng.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+                <company>
+					<option type="0">
+						<name><![CDATA[上海通和贸易有限公司南通分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangsu_nantong_congchuan.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangsu_nantong_congchuan.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省南通市崇川区跃龙路71号濠河名邸商办103-203室]]></address>
+							<code><![CDATA[226001]]></code>
+							<tel><![CDATA[(86) 513 8911 6666]]></tel>
+							<fax><![CDATA[(86) 513 8901 2588]]></fax>
+							<service>(86) 189 6299 0999</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.ntstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="徐州" x="392" y="210">
+				<company>
+					<option type="2">
+						<name><![CDATA[徐州之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_Xuzhou-Star-Automobile.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Xuzhou-Star-Automobile.jpg]]></image_map>
+						
+							<address><![CDATA[江苏省徐州经济开发区徐海路与经七路交叉口]]></address>
+							<code><![CDATA[221121]]></code>
+							<tel><![CDATA[(86) 516 8191 1111]]></tel>
+							<fax><![CDATA[(86) 516 8335 5119]]></fax>
+							<service>(86) 516 8355 9999</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.xzstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="jx" text="江西" x="356" y="232">
+			<city text="南昌" x="90" y="221">
+				<company>
+					<option type="2">
+						<name><![CDATA[南昌东之星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_jiangxi_nanchangeaststar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangxi_nanchangeaststar.jpg]]></image_map>
+						
+							<address><![CDATA[江西省南昌市迎宾中大道518号]]></address>
+							<code><![CDATA[330200]]></code>
+							<tel><![CDATA[(86) 791 526 1111]]></tel>
+							<fax><![CDATA[(86) 791 527 3735]]></fax>
+							<service>(86) 139 7911 7999 </service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br />星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.nceasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[南昌东之星汽车维修服务有限公司洪都大道分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_jiangxi_nanchangstar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_jiangxi_nanchangstar.jpg]]></image_map>
+						
+							<address><![CDATA[江西省南昌市洪都北大道919号]]></address>
+							<code><![CDATA[330029]]></code>
+							<tel><![CDATA[(86) 791 868 1818]]></tel>
+							<fax><![CDATA[(86) 791 868 1589]]></fax>
+							<service>(86) 139 7911 7999</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.nceasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="sh" text="上海" x="274" y="207">
+			<city text="长宁区" x="365" y="175">
+				<company>
+					<option type="0">
+						<name><![CDATA[上海奔驰有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanghai_benchi.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_benchi.jpg]]></image_map>
+						
+							<address><![CDATA[上海市长宁区延安西路1696号]]></address>
+							<code><![CDATA[200052]]></code>
+							<tel><![CDATA[(86) 21 6282 3639]]></tel>
+							<fax><![CDATA[(86) 21 6281 7194]]></fax>
+							<service>(86) 136 6159 2929</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shdongchi.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="1">
+						<name><![CDATA[上海东驰汽车维修有限公司 - 昭化路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanghai_dongchi_shaohua.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_dongchi_zhaohua.jpg]]></image_map>
+						
+							<address><![CDATA[上海市长宁区昭化路148号]]></address>
+							<code><![CDATA[200050]]></code>
+							<tel><![CDATA[(86) 21 6226 2929,(86) 400 881 6226]]></tel>
+							<fax><![CDATA[(86) 21 6225 4925]]></fax>
+							<service>(86) 136 6159 2929</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shdongchi.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[上海利星汽车维修有限公司延安西路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanghai_tonghemaoyi_yananxilu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_tonghemaoyi_yananxilu.jpg]]></image_map>
+						
+							<address><![CDATA[上海市延安西路1339号利星国际广场101室/501室]]></address>
+							<code><![CDATA[200050]]></code>
+							<tel><![CDATA[(86) 21 6102 0888]]></tel>
+							<fax><![CDATA[(86) 21 6125 3800]]></fax>
+							<service>(86) 400 820 0682</service>
+							<office_hours><![CDATA[星期一至星期日 10:00 - 22:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="黄埔区" x="365" y="200">
+				<company>
+					<option type="0">
+						<name><![CDATA[上海德星汽车销售有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanghai_dexing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_dexing.jpg]]></image_map>
+						
+							<address><![CDATA[上海市黄浦区南京西路338号101室]]></address>
+							<code><![CDATA[200003]]></code>
+							<tel><![CDATA[(86) 21 5375 0088,(86) 21 6327 6778]]></tel>
+							<fax><![CDATA[(86) 21 6359 2277]]></fax>
+							<service>(86) 136 6159 2929</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shdongchi.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="闵行区" x="365" y="225">
+				<company>
+					<option type="2">
+						<name><![CDATA[上海利星汽车维修服务有限公司                   上海通和贸易有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanghai_lixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_lixing.jpg]]></image_map>
+						
+							<address><![CDATA[上海市闵行区沪青平公路989号]]></address>
+							<code><![CDATA[201105]]></code>
+							<tel><![CDATA[(86) 21 6420 0999]]></tel>
+							<fax><![CDATA[(86) 21 6420 2716]]></fax>
+							<service>(86) 400 820 0682</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期五 8:00 - 22:00<br/>星期六至星期日 8:30 - 18:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:00 - 22:00<br/>星期六至星期日 8:30 - 20:30]]></service_hours>
+							<site_url><![CDATA[http://www.shstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="浦东区" x="366" y="200">
+				<company>
+					<option type="2">
+						<name><![CDATA[上海东驰汽车维修有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shanghai_dongchi.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_dongchi.jpg]]></image_map>
+						
+							<address><![CDATA[上海市浦东区康梧路386号]]></address>
+							<code><![CDATA[201315]]></code>
+							<tel><![CDATA[(86) 21 6806 5918,(86) 21 6806 5168]]></tel>
+							<fax><![CDATA[(86) 21 6806 5919]]></fax>
+							<service>(86) 137 0190 5808</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shdongchi.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[上海通和贸易有限公司陆家嘴分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shanghai_tonghemaoyi.png]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_tonghemaoyi.jpg]]></image_map>
+						
+							<address><![CDATA[上海市浦东新区世纪大道88号金茂大厦裙房一楼]]></address>
+							<code><![CDATA[200121]]></code>
+							<tel><![CDATA[(86) 21 6168 1333]]></tel>
+							<fax><![CDATA[(86) 21 6168 1222]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 10:00 - 22:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shdonghuastar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[上海汇之星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanghai_huizhixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_pudong_huizhixing.jpg]]></image_map>
+						
+							<address><![CDATA[上海市浦东新区南六公路1233号]]></address>
+							<code><![CDATA[201322]]></code>
+							<tel><![CDATA[(86) 21 6097 9988]]></tel>
+							<fax><![CDATA[(86) 21 6097 9966]]></fax>
+							<service>(86) 21 6097 5888,(86) 150 0059 1290</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shhuistar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+<company>
+					<option type="0">
+						<name><![CDATA[上海通和贸易有限公司金桥分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanghai_pudong_jinqiao.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_pudong_jinqiao.jpg]]></image_map>
+						
+							<address><![CDATA[上海市浦东新区张杨路3501号101-103,106-111室]]></address>
+							<code><![CDATA[200136]]></code>
+							<tel><![CDATA[(86) 21 5031 9999]]></tel>
+							<fax><![CDATA[(86) 21 2023 3050]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 10:00 - 22:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shpujiangstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="普陀区" x="366" y="280">
+				<company>
+					<option type="2">
+						<name><![CDATA[上海星瀚汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shanghai_xinghan.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_xinghan.jpg]]></image_map>
+						
+							<address><![CDATA[上海市普陀区红柳路288号]]></address>
+							<code><![CDATA[200331]]></code>
+							<tel><![CDATA[(86) 21 6181 2266]]></tel>
+							<fax><![CDATA[(86) 21 6181 2233]]></fax>
+							<service>(86) 400 820 5659</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 20:30<br/>星期六至星期日 9:00 - 18:00]]></service_hours>
+							<site_url><![CDATA[http://www.shxinghan.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[上海星瀚汽车维修服务有限公司-金沙江路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shanghai_xinghanjinsha.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_xinghanjinsha.jpg]]></image_map>
+						
+							<address><![CDATA[上海市普陀区金沙江路2098弄<br>2-6号]]></address>
+							<code><![CDATA[200333]]></code>
+							<tel><![CDATA[(86) 21 5270 0666]]></tel>
+							<fax><![CDATA[(86) 21 5270 0555]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期五 8:30 - 22:00<br/>星期六至星期日 9:00 - 18:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shxinghan.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="杨浦区" x="366" y="280">
+				<company>
+					<option type="0">
+						<name><![CDATA[大连中升之星汽车销售服务有限公司上海分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_shanghai_yangpuqu_dalianzhongsheng.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_yangpuqu_dalianzhongsheng.jpg]]></image_map>
+						
+							<address><![CDATA[上海市杨浦区淞沪路308号05~06室]]></address>
+							<code><![CDATA[200433]]></code>
+							<tel><![CDATA[(86) 21 6588 6688]]></tel>
+							<fax><![CDATA[(86) 21 3535 8911]]></fax>
+							<service>(86) 400 821 6688</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="宝山区" x="365" y="250">
+				<company>
+					<option type="1">
+						<name><![CDATA[上海东华之星汽车维修服务有限公司宝山分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_shanghai_donghuazhixing_baoshan.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_shanghai_donghuazhixing_baoshan.jpg]]></image_map>
+						
+							<address><![CDATA[上海市宝山区江杨南路980-2号]]></address>
+							<code><![CDATA[200439]]></code>
+							<tel><![CDATA[(86) 21 6185 1333]]></tel>
+							<fax><![CDATA[(86) 21 6185 1334]]></fax>
+							<service>(86) 159 2181 7626</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="zj" text="浙江" x="422" y="180">
+			<city text="杭州" x="151" y="146">
+				<company>
+					<option type="2">
+						<name><![CDATA[杭州东星行汽车维修有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_hangzhoudongxinghang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_hangzhoudongxinghang.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省杭州市下城区华中路6号]]></address>
+							<code><![CDATA[310022]]></code>
+							<tel><![CDATA[(86) 571 8899 5558]]></tel>
+							<fax><![CDATA[(86) 571 8899 9132]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.hzeasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[杭州东星行汽车维修有限公司建国中路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_hangzhoustar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_hangzhoustar.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省杭州市建国中路21号]]></address>
+							<code><![CDATA[310009]]></code>
+							<tel><![CDATA[(86) 571 8770 6666]]></tel>
+							<fax><![CDATA[(86) 571 8770 6661]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.hzeasternstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="4">
+						<name><![CDATA[浙江华策汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhejianghuace.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejianghuace.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省杭州市拱墅区石祥路257号]]></address>
+							<code><![CDATA[310015]]></code>
+							<tel><![CDATA[(86) 571 8829 9698 ]]></tel>
+							<fax><![CDATA[(86) 571 8802 7415]]></fax>
+							<service>(86) 139 5802 1991</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 18:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours></service_hours>
+							<site_url><![CDATA[http://www.zjwahstrategy.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[浙江华策汽车有限公司－杭州分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhejianghuace_hangzhou.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejianghuace_hangzhou.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省杭州市萧山区建设四路103号]]></address>
+							<code><![CDATA[311215]]></code>
+							<tel><![CDATA[(86) 571 8378 8588]]></tel>
+							<fax><![CDATA[(86) 571 8281 8196]]></fax>
+							<service>(86) 139 5802 1991</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zjwahstrategy.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[浙江之信汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_zhejiangzhixin.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_zhejiangzhixin.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省杭州市下沙大道1163号]]></address>
+							<code><![CDATA[310019]]></code>
+							<tel><![CDATA[(86) 571 8690 3333]]></tel>
+							<fax><![CDATA[(86) 571 8690 5555]]></fax>
+							<service>(86) 571 8690 5678</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:00]]></service_hours>
+							<site_url><![CDATA[http://www.zjzhixin.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[浙江星杭汽车有限公司教工路分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_Shanghai-Star-Trading-Co.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Shanghai-Star-Trading-Co-Ltd.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省杭州市教工路18号欧美中心一楼]]></address>
+							<code><![CDATA[310012]]></code>
+							<tel><![CDATA[(86) 571 8885 5222]]></tel>
+							<fax><![CDATA[(86) 571 8893 5000]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+                <company>
+					<option type="1">
+						<name><![CDATA[浙江星杭汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhejiang-Star.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map__zhejiang-Star.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省杭州市余杭区仓前镇文一西路1328号]]></address>
+							<code><![CDATA[311121]]></code>
+							<tel><![CDATA[(86) 571 8805 0000]]></tel>
+							<fax><![CDATA[(86) 571 8861 7101]]></fax>
+							<service>(86) 135 8800 8859</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>			
+			</city>
+			<city text="嘉兴" x="152" y="165">
+				<company>
+					<option type="2">
+						<name><![CDATA[嘉兴市合信汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhejiang_jiaxing_hexin.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_jiaxing_hexin.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省嘉兴市广益路汽车商贸园二期品牌区1号]]></address>
+							<code><![CDATA[314000]]></code>
+							<tel><![CDATA[(86) 573 8397 6888]]></tel>
+							<fax><![CDATA[(86) 573 8398 7002]]></fax>
+							<service>(86) 573 8392 3999</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.jxhexin.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="金华" x="152" y="185">
+				<company>
+					<option type="2">
+						<name><![CDATA[金华金之星汽车贸易有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_jianhuajinzhixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_jianhuajinzhixing.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省金华市汽车城西九路一号]]></address>
+							<code><![CDATA[321000]]></code>
+							<tel><![CDATA[(86) 579 8208 8688]]></tel>
+							<fax><![CDATA[(86) 579 8208 1632]]></fax>
+							<service>(86) 579 8208 2899</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.jhjinzhixing.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[义乌市国邦汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_jinhua_yiwuguobang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_jinhua_yiwuguobang.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省义乌市经发大道378号]]></address>
+							<code><![CDATA[322000]]></code>
+							<tel><![CDATA[(86) 579 8532 6888]]></tel>
+							<fax><![CDATA[(86) 579 8533 8591]]></fax>
+							<service>(86) 138 0679 0122</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.ywguobang.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+<company>
+					<option type="0">
+						<name><![CDATA[上海通和贸易有限公司义乌分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_Yiwu_Shang_hai_Star_Trading.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_Yiwu_Shang_hai_Star_Trading.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省义乌市雪峰西路280号]]></address>
+							<code><![CDATA[322000]]></code>
+							<tel><![CDATA[(86) 579 8511 9999]]></tel>
+							<fax><![CDATA[(86) 579 8511 8585]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期五 8:30 - 20:30<br/>星期六至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.shstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>				
+			</city>
+			<city text="宁波" x="151" y="160">
+				<company>
+					<option type="2">
+						<name><![CDATA[宁波之星汽车维修服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_ningbostar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_ningbostar.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省宁波市鄞州区石矸鄞县大道183号]]></address>
+							<code><![CDATA[315153]]></code>
+							<tel><![CDATA[(86) 574 2887 2887]]></tel>
+							<fax><![CDATA[(86) 574 2887 2899]]></fax>
+							<service>(86) 134 5613 0188</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.nbstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[宁波宁兴新宇汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_ningboningxingxinyu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_ningboningxingxinyu.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省宁波市镇海区庄市中官西路299号]]></address>
+							<code><![CDATA[315200]]></code>
+							<tel><![CDATA[(86) 574 8760 8888]]></tel>
+							<fax><![CDATA[(86) 574 8668 3070]]></fax>
+							<service>(86) 574 8668 3000</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.nbxinyu.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[宁波宁兴新宇汽车销售服务有限公司-江东分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_ningboningxingxinyu_jiangdong.jpg ]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_ningboningxingxinyu_jiangdong.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省宁波市江东区江东南路161号]]></address>
+							<code><![CDATA[315040]]></code>
+							<tel><![CDATA[(86) 574 8789 8088]]></tel>
+							<fax><![CDATA[(86) 574 8789 7822]]></fax>
+							<service>(86) 574 8668 3000</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.nbxinyu.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[宁波之星汽车维修服务有限公司江北分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Ningbo-Star.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Ningbo-Star.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省宁波市江北区人民路651路号(1-13)、人民路653号(1-11)、(1-12)、(1-15)、(2-11)-(2-13)、人民路645弄2号(1-14)]]></address>
+							<code><![CDATA[315000]]></code>
+							<tel><![CDATA[(86) 574 2887 2886]]></tel>
+							<fax><![CDATA[(86) 574 2889 2663]]></fax>
+							<service>(86) 134 5613 0188</service>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.nbstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[浙江慈吉之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhejiang_ningbo_cixi.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_ningbo_cixi.jpg ]]></image_map>
+						
+							<address><![CDATA[浙江省慈溪市横河镇杨梅大道北路518号]]></address>
+							<code><![CDATA[315318]]></code>
+							<tel><![CDATA[(86) 574 2371 8888]]></tel>
+							<fax><![CDATA[(86) 574 2371 6887]]></fax>
+							<service>(86) 574 2371 5555</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zjcjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[浙江慈吉之星汽车有限公司余姚分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_yuyao_cixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_yuyao_cixing.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省余姚市月华路23-29号]]></address>
+							<code><![CDATA[315400]]></code>
+							<tel><![CDATA[(86) 574 6269 8888]]></tel>
+							<fax><![CDATA[(86) 574 6269 6333]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zjcjstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="绍兴" x="151" y="235">
+				<company>
+					<option type="2">
+						<name><![CDATA[浙江越星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhejiang_yuexingkeqiao.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_zhejiangyuexing.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省绍兴袍江工业区197号,中兴大道]]></address>
+							<code><![CDATA[312000]]></code>
+							<tel><![CDATA[(86) 575 8822 2888]]></tel>
+							<fax><![CDATA[(86) 575 8822 1111]]></fax>
+							<service>(86) 575 8822 1199</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zjyuestar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[浙江越星汽车有限公司柯桥分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_zhejiangyuexing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_yuexingkeqiao.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省绍兴县柯桥金柯桥大道时代广场B座一层]]></address>
+							<code><![CDATA[312030]]></code>
+							<tel><![CDATA[(86) 575 8116 6888]]></tel>
+							<fax><![CDATA[(86) 575 8116 6330]]></fax>
+							<service>(86) 137 7733 8277</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zjyuestar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="台州" x="151" y="256">
+				<company>
+					<option type="2">
+						<name><![CDATA[台州欧普汽车销售有限公司 ]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_taizhououpu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_taizhououpu.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省台州市椒江开发大道589号]]></address>
+							<code><![CDATA[318000]]></code>
+							<tel><![CDATA[(86) 576 8867 8888]]></tel>
+							<fax><![CDATA[(86) 576 8867 6555]]></fax>
+							<service>(86) 576 8867 6888</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.tzoupu.mercedes-benz.com.cn/]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[台州之星汽车销售服务有限公司 ]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_taizhoustar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_taizhoustar.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省台州市路桥区新安南街388号]]></address>
+							<code><![CDATA[318000]]></code>
+							<tel><![CDATA[(86) 576 8276 6666]]></tel>
+							<fax><![CDATA[(86) 576 8276 6588]]></fax>
+							<service>(86) 576 8276 2222</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.tzstar.mercedes-benz.com.cn/]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[台州之星汽车销售服务有限公司温岭分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhejiang_taizhoustar_wenling.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_taizhoustar_wenling.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省台州市温岭经济开发区汽车城A2]]></address>
+							<code><![CDATA[317500]]></code>
+							<tel><![CDATA[(86) 576 8649 6666]]></tel>
+							<fax><![CDATA[(86) 576 8968 0665]]></fax>
+							<service>(86) 576 8276 2222</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.tzstar.mercedes-benz.com.cn/]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="温州" x="151" y="236">
+				<company>
+					<option type="2">
+						<name><![CDATA[瑞安市红升汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhengjiang_ruianhongsheng.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhengjiang_ruianhongsheng.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省瑞安市塘下镇上金工业区(104国道边)]]></address>
+							<code><![CDATA[325204]]></code>
+							<tel><![CDATA[(86) 577 6607 8888]]></tel>
+							<fax><![CDATA[(86) 577 6538 8345]]></fax>
+							<service>(86) 577 6607 6607,(86) 151 5771 1122</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.rahongsheng.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[温州华能汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_wenzhouhuaneng.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_wenzhouhuaneng.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省温州市机场大道蒲州屿田段]]></address>
+							<code><![CDATA[325011]]></code>
+							<tel><![CDATA[(86) 577 8855 7777]]></tel>
+							<fax><![CDATA[(86) 577 8892 8212]]></fax>
+							<service>(86) 577 8562 0000,(86) 159 5772 2166</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.wzhuaneng.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[温州华能汽车销售服务有限公司-展示厅]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_wenzhouhuaneng_showroom.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_wenzhouhuaneng_showroom.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省乐清市乐成镇三环路金马广场]]></address>
+							<code><![CDATA[325600]]></code>
+							<tel><![CDATA[(86) 577 2782 0011]]></tel>
+							<fax><![CDATA[(86) 577 2782 0211]]></fax>
+							<service>(86) 577 2782 0011</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.wzhuaneng.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[温州之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_zhejiang_wenzhoustar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_wenzhoustar.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省温州市温州大道南郊工业区46-47号]]></address>
+							<code><![CDATA[325029]]></code>
+							<tel><![CDATA[(86) 577 8860 9999]]></tel>
+							<fax><![CDATA[(86) 577 8860 6666]]></fax>
+							<service>(86) 577 8860 0888</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.wzstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[温州之星汽车有限公司江滨路展厅]]></name>
+						<image_company><![CDATA[../images/Photo/photo_zhejiang_wenzhoujiangbin.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_zhejiang_wenzhoujiangbin.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省温州市江滨西路140-144号]]></address>
+							<code><![CDATA[325003]]></code>
+							<tel><![CDATA[(86) 577 8813 6666]]></tel>
+							<fax><![CDATA[(86) 577 8900 7888]]></fax>
+							<service>(86) 577 8860 0888</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.wzstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="诸暨" x="203" y="299">
+				<company>
+					<option type="2">
+						<name><![CDATA[浙江宝利德汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_Zhejiang-Baolide-Automobile.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Zhejiang-Baolide-Automobile.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省诸暨市陶朱街道北二环路19号]]></address>
+							<code><![CDATA[311800]]></code>
+							<tel><![CDATA[(86) 575 8900 0888]]></tel>
+							<fax><![CDATA[(86) 575 8900 0666]]></fax>
+							<service>(86) 575 8900 0999</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="湖州" x="216" y="299">
+				<company>
+					<option type="2">
+						<name><![CDATA[湖州之星汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_huzhoustar.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Huzhou Star.jpg]]></image_map>
+						
+							<address><![CDATA[湖州市吴兴区苕溪东路2222号]]></address>
+							<code><![CDATA[313000]]></code>
+							<tel><![CDATA[(86) 572 259 5598]]></tel>
+							<fax><![CDATA[(86) 572 259 5551]]></fax>
+							<service>(86) 572 259 5119</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="衢州" x="216" y="320">
+				<company>
+					<option type="2">
+						<name><![CDATA[衢州欧龙汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_Quzhou Oulong Automobile Co.,Ltd.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Quzhou Oulong Automobile Co.,Ltd.jpg]]></image_map>
+						
+							<address><![CDATA[浙江省衢州市浙西大道109号12区]]></address>
+							<code><![CDATA[324000]]></code>
+							<tel><![CDATA[(86) 570 852 6666]]></tel>
+							<fax><![CDATA[(86) 570 807 1060]]></fax>
+							<service>(86) 570 856 7999</service>
+							<office_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+				
+		</provice>
+	</total>
+	<total id="2" text="华南地区">
+		<provice id="cq" text="重庆" x="416" y="189">
+			<city text="江北区" x="145" y="176">
+				<company>
+					<option type="2">
+						<name><![CDATA[重庆商社麒兴汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_chongqing_shangsheqixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_chongqing_shangsheqixing.jpg]]></image_map>
+						
+							<address><![CDATA[重庆市江北区渝澳大道68号]]></address>
+							<code><![CDATA[400020]]></code>
+							<tel><![CDATA[(86) 23 6795 5999]]></tel>
+							<fax><![CDATA[(86) 23 6795 7988]]></fax>
+							<service>(86) 400 889 9992</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.cqkyxing.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="北部新区" x="211" y="199">
+				<company>
+					<option type="5">
+						<name><![CDATA[重庆星顺汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_chongqing_xingshun.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_chongqing_xingshun.jpg]]></image_map>
+						
+							<address><![CDATA[重庆北部新区金渝大道99号附12号]]></address>
+							<code><![CDATA[401122]]></code>
+							<tel><![CDATA[(86) 23 6746 9999]]></tel>
+							<fax><![CDATA[(86) 23 6746 9998]]></fax>
+							<service>(86) 23 6746 9958</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.cqxingshun.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="涪陵区" x="146" y="210">
+				<company>
+					<option type="0">
+						<name><![CDATA[重庆星顺汽车有限公司涪陵分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_chongqing_peiling.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_chongqing_peiling.jpg]]></image_map>
+						
+							<address><![CDATA[重庆市涪陵区太极大道71号附9号]]></address>
+							<code><![CDATA[408000]]></code>
+							<tel><![CDATA[(86) 23 7280 9888]]></tel>
+							<fax><![CDATA[(86) 23 7280 9977]]></fax>
+							<service>(86) 23 6746 9958</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[www.cqxingshun.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="沙坪坝区" x="146" y="240">
+				<company>
+					<option type="1">
+						<name><![CDATA[重庆星顺汽车有限公司联芳分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_chongqing_shapingpa.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_chongqing_shapingpa.jpg]]></image_map>
+						
+							<address><![CDATA[重庆市沙坪坝区显丰大道66号]]></address>
+							<code><![CDATA[400039]]></code>
+							<tel><![CDATA[(86) 23 6869 5588]]></tel>
+							<fax><![CDATA[(86) 23 6888 9797]]></fax>
+							<service>(86) 23 6869 5588,(86) 23 6888 0083</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.cqxingshun.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="gd" text="广东" x="518" y="180">
+			<city text="东莞" x="246" y="168">
+				<company>
+					<option type="2">
+						<name><![CDATA[东莞仁孚华星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_guangdong_dongguanhuaxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_dongguanhuaxing.jpg]]></image_map>
+						
+							<address><![CDATA[广东省东莞市寮步镇国际汽车城2号路]]></address>
+							<code><![CDATA[523407]]></code>
+							<tel><![CDATA[(86) 769 8222 2080]]></tel>
+							<fax><![CDATA[(86) 769 8222 2081]]></fax>
+							<service>(86) 135 0900 3530</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br/>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.dghx.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[东莞仁孚溢华汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_dongguanrenfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_dongguanrenfu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省东莞市南城区莞太路231号]]></address>
+							<code><![CDATA[523076]]></code>
+							<tel><![CDATA[(86) 769 2290 2080]]></tel>
+							<fax><![CDATA[(86) 769 2290 2081]]></fax>
+							<service>(86) 135 0922 2161</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 19:30<br/>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.dgzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+                <company>
+					<option type="2">
+						<name><![CDATA[东莞市聚星行汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_dongguanjuxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_dongguanjuxing.jpg]]></image_map>
+						
+							<address><![CDATA[广东省东莞市厚街镇莞太路桥头路段东3号]]></address>
+							<code><![CDATA[523000]]></code>
+							<tel><![CDATA[(86) 769 8558 7777]]></tel>
+							<fax><![CDATA[(86) 769 8270 3705]]></fax>
+							<service>(86) 139 2585 0907</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br />星期六至星期日 9:00 - 18:30]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>			
+			</city>
+			<city text="佛山" x="246" y="190">
+				<company>
+					<option type="2">
+						<name><![CDATA[佛山怡和仁孚汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_foshanyihe.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_foshanyihe.jpg]]></image_map>
+						
+							<address><![CDATA[广东省佛山市南海区桂城海八路谢叠大桥南G10街区]]></address>
+							<code><![CDATA[528200]]></code>
+							<tel><![CDATA[(86) 757 8123 9889]]></tel>
+							<fax><![CDATA[(86) 757 8123 9991]]></fax>
+							<service>(86) 139 2774 5066 </service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.fszf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[佛山市顺德区怡孚汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Foshan-Shunde-Yifu-Vehicle-Service.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Foshan-Shunde-Yifu-Vehicle-Service.jpg]]></image_map>
+						
+							<address><![CDATA[广东省佛山市顺德区伦教广珠公路东侧(顺德立交桥北面)]]></address>
+							<code><![CDATA[528308]]></code>
+							<tel><![CDATA[(86) 757 2772 7888]]></tel>
+							<fax><![CDATA[(86) 757 2772 0999]]></fax>
+							<service>(86) 189 2772 0999 </service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[佛山中升之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_foshanzhongsheng.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_foshanzhongsheng.jpg]]></image_map>
+						
+							<address><![CDATA[广东省佛山市南海区平洲佛山一环佛平出口东行500米]]></address>
+							<code><![CDATA[528251]]></code>
+							<tel><![CDATA[(86) 757 8106 2666]]></tel>
+							<fax><![CDATA[(86) 757 8106 2668]]></fax>
+							<service>(86) 757 8106 2669</service>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 18:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="广州" x="246" y="215">
+				<company>
+					<option type="5">
+						<name><![CDATA[广州市龙星行汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_guangzhoulongxinghang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_guangzhoulongxinghang.jpg]]></image_map>
+						
+							<address><![CDATA[广东省广州市海珠区新滘东路611号]]></address>
+							<code><![CDATA[510300]]></code>
+							<tel><![CDATA[(86) 20 8409 2999]]></tel>
+							<fax><![CDATA[(86) 20 8409 3108]]></fax>
+							<service>(86) 139 2508 2220</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.gzdragonstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<!--<company>
+					<option type="0">
+						<name><![CDATA[广州市广星行汽车贸易有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_guangzhouguangxinghang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_guangzhouguangxinghang.jpg]]></image_map>
+						
+							<address><![CDATA[广州市天河区冼村路60-120号利雅湾首层]]></address>
+							<code><![CDATA[510623]]></code>
+							<tel><![CDATA[(86) 20 8757 9757]]></tel>
+							<fax><![CDATA[(86) 20 8756 6857]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期六<br>上午九时至下午七时<br>星期日及节假日<br>上午九时三十分至下午五时三十分]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zfyb.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>-->
+				<company>
+					<option type="2">
+						<name><![CDATA[广州仁孚汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_guangdong_renfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_renfu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省广州市白云区同和北路198号]]></address>
+							<code><![CDATA[510515]]></code>
+							<tel><![CDATA[(86) 20 2880 6288]]></tel>
+							<fax><![CDATA[(86) 20 2880 6289]]></fax>
+							<service>(86) 136 0003 3891</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br />星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.gzzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[广东仁孚怡邦汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_guangdongrenfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_guangdongrenfu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省广州市中山大道西901号]]></address>
+							<code><![CDATA[510665]]></code>
+							<tel><![CDATA[(86) 20 8553 3033]]></tel>
+							<fax><![CDATA[(86) 20 8553 3037]]></fax>
+							<service>(86) 139 2217 8821</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30- 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 21:00<br>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.zfyb.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[广东仁孚怡邦汽车销售服务有限公司-广州分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_renfuyibang.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_renfuyibang.jpg]]></image_map>
+						
+							<address><![CDATA[广东省广州市天河区冼村路60-120号利雅湾首层]]></address>
+							<code><![CDATA[510623]]></code>
+							<tel><![CDATA[(86) 20 8757 9757]]></tel>
+							<fax><![CDATA[(86) 20 8756 6857]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.zfyb.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				
+			</city>
+			<city text="惠州" x="246" y="235">
+				<company>
+					<option type="0">
+						<name><![CDATA[深圳市仁孚特力汽车服务有限公司惠州分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_shenzhenrenhu_huizhou.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_shenzhenrenhu_huizhou.jpg]]></image_map>
+						
+							<address><![CDATA[广东省惠州市演达一路汽车<br>大市场33号之3、4号铺位]]></address>
+							<code><![CDATA[516001]]></code>
+							<tel><![CDATA[(86) 752 255 6766]]></tel>
+							<fax><![CDATA[(86) 752 255 6755]]></fax>
+							<service>(86) 138 2994 4060</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 19:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.szzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="江门" x="247" y="253">
+				<company>
+					<option type="2">
+						<name><![CDATA[江门市合礼汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_jiangmenheli.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_jiangmenheli.jpg]]></image_map>
+						
+							<address><![CDATA[广东省江门市新会区新会大道东10号]]></address>
+							<code><![CDATA[529100]]></code>
+							<tel><![CDATA[(86) 750 678 8028]]></tel>
+							<fax><![CDATA[(86) 750 678 8020]]></fax>
+							<service>(86) 750 678 8000</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.jmheli.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[江门仁孚汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_guangdong_jiangmenrenfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_jiangmenrenfu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省江门市建设三路97号]]></address>
+							<code><![CDATA[529000]]></code>
+							<tel><![CDATA[(86) 750 321 2699]]></tel>
+							<fax><![CDATA[(86) 750 321 2696]]></fax>
+							<service>(86) 137 0227 8034</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期五 8:30 - 18:30<br />星期六至星期日 8:30 - 17:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br/>星期六 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.jmzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="汕头" x="246" y="270">
+				<company>
+					<option type="2">
+						<name><![CDATA[汕头市骏荣汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_shantoujunrong.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_shantoujunrong.jpg]]></image_map>
+						
+							<address><![CDATA[广东省汕头市泰山路8号]]></address>
+							<code><![CDATA[515041]]></code>
+							<tel><![CDATA[(86) 754 8882 2222]]></tel>
+							<fax><![CDATA[(86) 754 8838 7777]]></fax>
+							<service>(86) 754 8882 2222</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 9:00 - 19:00]]></service_hours>
+							<site_url><![CDATA[http://www.stjunrong.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[汕头金豪汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_shantouyixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_shantouyixing.jpg]]></image_map>
+						
+							<address><![CDATA[广东省汕头市天山路77号]]></address>
+							<code><![CDATA[515041]]></code>
+							<tel><![CDATA[(86) 754 8883 1003]]></tel>
+							<fax><![CDATA[(86) 754 8883 4462]]></fax>
+							<service>(86) 130 0523 0979</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.stjinhao.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="深圳" x="246" y="205">
+				<company>
+					<option type="2">
+						<name><![CDATA[深圳市南方腾星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_guangdong_shenzhennanfangtengxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_shenzhennanfangtengxing.jpg]]></image_map>
+						
+							<address><![CDATA[广东省深圳市南山区月亮湾大道新濠汽车城B区2号]]></address>
+							<code><![CDATA[518054]]></code>
+							<tel><![CDATA[(86) 755 8884 4444]]></tel>
+							<fax><![CDATA[(86) 755 8603 4290]]></fax>
+							<service>(86) 755 8884 5666</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 19:00]]></service_hours>
+							<site_url><![CDATA[http://www.szrisingstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[鹏星行汽车服务(深圳)有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_guangdong_shenzhenpxh.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_shenzhenpxh.jpg]]></image_map>
+						
+							<address><![CDATA[广东省深圳市侨城东路鹏程<br>宝汽车城和诚宝汽车超级市场<br>A01单元]]></address>
+							<code><![CDATA[518053]]></code>
+							<tel><![CDATA[(86) 755 2821 2828]]></tel>
+							<fax><![CDATA[(86) 755 8282 2436]]></fax>
+							<service>(86) 136 3266 9611</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.szstarzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[鹏星行汽车服务(深圳)有限公司-罗湖分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_guangdong_shenzhenpxh_luohu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_shenzhenpxh_luohu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省深圳市罗湖区沿河路与新秀路交汇处东益华鹏汽车交易广场A16+2]]></address>
+							<code><![CDATA[518002]]></code>
+							<tel><![CDATA[(86) 755 2512 7948]]></tel>
+							<fax><![CDATA[(86) 755 2512 7949]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期六 8:30 - 19:00<br>星期日及公众假期 9:30 - 17:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.szstarzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[深圳市仁孚特力汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_shenzhenrenfu.jpg ]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_shenzhenrenfu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省深圳市罗湖区布心东昌路42号新永通大厦]]></address>
+							<code><![CDATA[518019]]></code>
+							<tel><![CDATA[(86) 755 2551 6000]]></tel>
+							<fax><![CDATA[(86) 755 2551 6058]]></fax>
+							<service>(86) 139 2372 6637</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.szzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[深圳市仁孚特力汽车服务有限公司－罗湖分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_shenzhenrenfu_luohu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_shenzhenrenfu_luohu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省深圳市罗湖区宝安南路1881号华润中心万象城N118铺]]></address>
+							<code><![CDATA[518001]]></code>
+							<tel><![CDATA[(86) 755 8266 8788]]></tel>
+							<fax><![CDATA[(86) 755 8266 8399]]></fax>
+							<service/>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.szzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="中山" x="260" y="335">
+				<company>
+					<option type="2">
+						<name><![CDATA[中山仁孚汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_zhongshanrenfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_zhongshanrenfu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省中山市中山六路170号埃索加油站旁]]></address>
+							<code><![CDATA[528436]]></code>
+							<tel><![CDATA[(86) 760 8533 4033]]></tel>
+							<fax><![CDATA[(86) 760 8533 4032]]></fax>
+							<service>(86) 136 0033 4033</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 18:30<br>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.zszf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="珠海" x="260" y="335">
+				<company>
+					<option type="2">
+						<name><![CDATA[珠海仁孚汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangdong_yiherenfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_yiherenfu.jpg]]></image_map>
+						
+							<address><![CDATA[珠海市香洲前山工业区华宇路119号(上冲国际名车城)]]></address>
+							<code><![CDATA[519070]]></code>
+							<tel><![CDATA[(86) 756 866 1663]]></tel>
+							<fax><![CDATA[(86) 756 866 1150]]></fax>
+							<service>(86) 756 866 1663</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.zhzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="揭阳" x="246" y="315">
+				<company>
+					<option type="0">
+						<name><![CDATA[汕头市骏荣汽车销售服务有限公司揭阳分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Shantou-Junrong-Motors-Sales-&-Service.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Shantou-Junrong-Motors-Sales-&-Service.jpg]]></image_map>
+						
+							<address><![CDATA[广东省揭阳市东山区岐山大道(榕江大酒店首层)]]></address>
+							<code><![CDATA[515000]]></code>
+							<tel><![CDATA[(86) 663 828 0888]]></tel>
+							<fax><![CDATA[(86) 663 828 0555]]></fax>
+							<service>(86) 754 8882 2222</service>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.stjunrong.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+			<city text="肇庆" x="246" y="315">
+				<company>
+					<option type="0">
+						<name><![CDATA[广州仁孚汽车销售服务有限公司肇庆分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_guangdong_zhaopingrenfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangdong_zhaopingrenfu.jpg]]></image_map>
+						
+							<address><![CDATA[广东省肇庆市端州区星湖大道9号]]></address>
+							<code><![CDATA[526020]]></code>
+							<tel><![CDATA[(86) 758 252 2688]]></tel>
+							<fax><![CDATA[(86) 758 252 2600]]></fax>
+							<service>(86) 158 0002 2953</service>
+							<office_hours><![CDATA[星期一至星期日 08:30-20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="gx" text="广西" x="400" y="240">
+			<city text="南宁" x="491" y="228">
+				<company>
+					<option type="2">
+						<name><![CDATA[南宁冠星汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangxi_nanningguanxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangxi_nanningguanxing.jpg]]></image_map>
+						
+							<address><![CDATA[广西南宁市白沙大道54-3号]]></address>
+							<code><![CDATA[530031]]></code>
+							<tel><![CDATA[(86) 771 492 5333,(86) 771 491 5595]]></tel>
+							<fax><![CDATA[(86) 771 491 5586]]></fax>
+							<service>(86) 771 491 3300</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.nncrownstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[南宁冠星汽车服务有限公司金源分公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guangxi_Nanning_Crown_Star_Motor_Jinyuan_Branch.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guangxi_Nanning_Crown_Star_Motor_Jinyuan_Branch.jpg]]></image_map>
+						
+							<address><![CDATA[广西南宁市秀厢大道199号金源国际汽车城]]></address>
+							<code><![CDATA[530001]]></code>
+							<tel><![CDATA[(86) 771 321 8333]]></tel>
+							<fax><![CDATA[(86) 771 381 6835]]></fax>
+							<service></service>
+							<office_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.nncrownstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="gz" text="贵州" x="400" y="230">
+			<city text="贵阳" x="130" y="218">
+				<company>
+					<option type="2">
+						<name><![CDATA[贵州贵星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guizhou_guixing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guizhou_guixing.jpg]]></image_map>
+						
+							<address><![CDATA[贵州省贵阳市金阳新区迎宾西路(市级行政中心西行800米)]]></address>
+							<code><![CDATA[550081]]></code>
+							<tel><![CDATA[(86) 851 798 3222]]></tel>
+							<fax><![CDATA[(86) 851 798 0123]]></fax>
+							<service>(86) 851 798 5000</service>
+							<office_hours><![CDATA[星期一至星期日9:00 - 21:00]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.gzstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[贵州贵星汽车销售服务有限公司(展示厅)]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_guizhou_guixingzhanshiting.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_guizhou_guixingzhanshiting.jpg]]></image_map>
+						
+							<address><![CDATA[贵州省贵阳市新添大道南段249号(杨柳湾大厦一层)]]></address>
+							<code><![CDATA[550004]]></code>
+							<tel><![CDATA[(86) 851 677 5999]]></tel>
+							<fax><![CDATA[(86) 851 677 5028]]></fax>
+							<service>(86) 851 677 5999</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.gzstar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="hn2" text="海南" x="460" y="330">
+			<city text="海口" x="190" y="302">
+				<company>
+					<option type="2">
+						<name><![CDATA[海南联合皇冠汽车服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hainan_lianhehuangguan.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hainan_lianhehuangguan.jpg]]></image_map>
+						
+							<address><![CDATA[海南省海口市滨海大道50-1号]]></address>
+							<code><![CDATA[570105]]></code>
+							<tel><![CDATA[(86) 898 6853 8080]]></tel>
+							<fax><![CDATA[(86) 898 6853 8081]]></fax>
+							<service>(86) 138 0756 8871</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.hnunitedcrown.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[海南联合皇冠汽车服务有限公司时代展厅]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_Hainan_Shidai_Branch.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Hainan_Shidai_Branch.jpg]]></image_map>
+						
+							<address><![CDATA[海南省海口市龙华区国贸路2号海南时代广场第一层东北侧]]></address>
+							<code><![CDATA[570125]]></code>
+							<tel><![CDATA[(86) 898 6659 8080]]></tel>
+							<fax><![CDATA[(86) 898 6659 8081]]></fax>
+							<service>(86) 138 0756 8871</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 9:00 - 21:00]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.hnunitedcrown.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="hb2" text="湖北" x="420" y="160">
+			<city text="武汉" x="163" y="150">
+				<company>
+					<option type="2">
+						<name><![CDATA[武汉星隆汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hubei_wuhanxinglong.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hubei_wuhanxinglong.jpg]]></image_map>
+						
+							<address><![CDATA[湖北省武汉市汉阳区龙阳大道特1号]]></address>
+							<code><![CDATA[430051]]></code>
+							<tel><![CDATA[(86) 27 8467 0115,(86) 27 8467 0121]]></tel>
+							<fax><![CDATA[(86) 27 8462 4592]]></fax>
+							<service>(86) 139 8618 9706</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期六 8:30 - 18:30<br>星期日 9:00 - 17:00]]></service_hours>
+							<site_url><![CDATA[http://www.whxinglong.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[武汉星威汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hubei_wuhanxingwei.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hubei_wuhanxingwei.jpg]]></image_map>
+						
+							<address><![CDATA[湖北省武汉市江汉区常青路155号]]></address>
+							<code><![CDATA[430023]]></code>
+							<tel><![CDATA[(86) 27 8351 8888]]></tel>
+							<fax><![CDATA[(86) 27 8351 0999]]></fax>
+							<service>(86) 136 3866 0303</service>
+							<office_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></office_hours>
+							<inshow_hours><![CDATA[]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[http://www.whxingwei.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="hn1" text="湖南" x="455" y="236">
+			<city text="长沙" x="184" y="226">
+				<company>
+					<option type="5">
+						<name><![CDATA[湖南华美汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hunan_changsha_huamei.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hunan_changsha_huamei.jpg]]></image_map>
+						
+							<address><![CDATA[湖南省长沙市天心区芙蓉南路一段999号]]></address>
+							<code><![CDATA[410004]]></code>
+							<tel><![CDATA[(86) 731 8862 8888]]></tel>
+							<fax><![CDATA[(86) 731 8862 8899]]></fax>
+							<service>(86) 731 8868 0000</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.hnhuamei.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="2">
+						<name><![CDATA[湖南仁孚海润汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_hunan_hunanrenfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_hunan_hunanrenfu.jpg]]></image_map>
+						
+							<address><![CDATA[湖南省长沙市经济技术开发区中南汽车世界A区A01]]></address>
+							<code><![CDATA[410100]]></code>
+							<tel><![CDATA[(86) 731 8525 1111]]></tel>
+							<fax><![CDATA[(86) 731 8525 1127]]></fax>
+							<service>(86) 137 5513 8111</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:30 - 20:30<br/>星期六至星期日 8:30 - 17:30]]></service_hours>
+							<site_url><![CDATA[http://www.cszf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[湖南仁孚海润汽车销售服务有限公司湘潭分公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_Hunan_ZungFu Hairun.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Hunan_ZungFu Hairun.jpg]]></image_map>
+						
+							<address><![CDATA[湖南省湘潭市芙蓉中路40号帝景国际一楼]]></address>
+							<code><![CDATA[411101]]></code>
+							<tel><![CDATA[(86) 731 5825 1111]]></tel>
+							<fax><![CDATA[(86) 731 5555 0530]]></fax>
+							<service>(86) 400 650 4688      (手机 137 5513 8111)</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30 (除国家法定假期)]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="sc" text="四川" x="260" y="185">
+			<city text="成都" x="352" y="175">
+				<company>
+					<option type="2">
+						<name><![CDATA[成都仁孚汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_sichuan_chengdurenfu.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_sichuan_chengdurenfu.jpg]]></image_map>
+						
+							<address><![CDATA[四川省成都市火车南站西路960号]]></address>
+							<code><![CDATA[610041]]></code>
+							<tel><![CDATA[(86) 28 8512 0888]]></tel>
+							<fax><![CDATA[(86) 28 8512 0222]]></fax>
+							<service>(86) 130 3288 2008</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:00 - 20:00]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期五 8:00 - 22:30]]></service_hours>
+							<site_url><![CDATA[http://www.cdzf.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[四川华星锦业汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_sichuan_huaxingjingye.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_sichuan_huaxingjingye.jpg]]></image_map>
+						
+							<address><![CDATA[四川省成都市金牛区羊西线两河路1号]]></address>
+							<code><![CDATA[610036]]></code>
+							<tel><![CDATA[(86) 28 8751 8800]]></tel>
+							<fax><![CDATA[(86) 28 8750 6600]]></fax>
+							<service>(86) 131 8388 5000</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 19:30]]></service_hours>
+							<site_url><![CDATA[http://www.schuaxingjinye.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="0">
+						<name><![CDATA[成都中升之星汽车销售服务有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/photo_Chengdu-ZhongshengStar-Sales&-Service-Co,Ltd.-XiangTan-Branch_503x392.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_Chengdu-ZhongshengStar-Sales&-Service-Co,Ltd.-XiangTan-Branch_map.jpg]]></image_map>
+						
+							<address><![CDATA[四川省成都市双流县东升镇龙桥社区]]></address>
+							<code><![CDATA[610200]]></code>
+							<tel><![CDATA[(86) 28 8577 3333]]></tel>
+							<fax><![CDATA[(86) 28 6191 5900]]></fax>
+							<service>(86) 189 8070 8288</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 08:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[]]></service_hours>
+							<site_url><![CDATA[]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+		<provice id="yn" text="云南" x="200" y="260">
+			<city text="昆明" x="292" y="234">
+				<company>
+					<option type="5">
+						<name><![CDATA[昆明星旗汽车有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_yunnan_kunmingxingqi.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_yunnan_kunmingxingqi.jpg]]></image_map>
+						
+							<address><![CDATA[云南省昆明市滇池路六公里1278号]]></address>
+							<code><![CDATA[650228]]></code>
+							<tel><![CDATA[(86) 871 431 1918,(86) 871 431 2388]]></tel>
+							<fax><![CDATA[(86) 871 431 1058]]></fax>
+							<service>(86) 189 8779 7678</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.kmxingqi.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+				<company>
+					<option type="5">
+						<name><![CDATA[云南远安昆星汽车维修有限公司]]></name>
+						<image_company><![CDATA[../images/Photo/Photo_yunnan_yuanankunxing.jpg]]></image_company>
+						<image_map><![CDATA[../images/map/map_yunnan_yuanankunxing.jpg]]></image_map>
+						
+							<address><![CDATA[云南省昆明市北市区园博路中段(穿金路路口)]]></address>
+							<code><![CDATA[650224]]></code>
+							<tel><![CDATA[(86) 871 563 2222]]></tel>
+							<fax><![CDATA[(86) 871 563 3111]]></fax>
+							<service>(86) 871 563 5688</service>
+							<office_hours><![CDATA[]]></office_hours>
+							<inshow_hours><![CDATA[星期一至星期日 8:30 - 20:30]]></inshow_hours>
+							<service_hours><![CDATA[星期一至星期日 8:30 - 18:30]]></service_hours>
+							<site_url><![CDATA[http://www.ynprimestar.mercedes-benz.com.cn]]></site_url>
+						
+					</option>
+				</company>
+			</city>
+		</provice>
+	</total>
+</data>
